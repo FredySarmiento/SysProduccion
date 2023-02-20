@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "8823ebfa-2cf6-4558-ba8d-aaf6e624e9a6": {
+      "ProjectGuid": "8823ebfa-2cf6-4558-ba8d-aaf6e624e9a6",
+      "DisplayName": "SySProduccion",
+      "ColorIndex": 0
+    },
+    "93b83e49-f8cf-442f-a163-cec13bc6a07e": {
+      "ProjectGuid": "93b83e49-f8cf-442f-a163-cec13bc6a07e",
+      "DisplayName": "ClaseConexion",
+      "ColorIndex": 1
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Archivos varios",
+      "ColorIndex": -1
+    },
+    "9bda5a50-711f-40e2-af90-2237cc702784": {
+      "ProjectGuid": "9bda5a50-711f-40e2-af90-2237cc702784",
+      "DisplayName": "ClaseNegocios",
+      "ColorIndex": 2
+    },
+    "8c2c3760-5042-4b2b-a61d-e70e72dcf767": {
+      "ProjectGuid": "8c2c3760-5042-4b2b-a61d-e70e72dcf767",
+      "DisplayName": "ClaseDatos",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}

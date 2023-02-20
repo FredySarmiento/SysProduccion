@@ -1,0 +1,1952 @@
+F:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.exe
+F:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.xml
+F:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.pdb
+F:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\VBESKO\SySProduccion\SySProduccion\bin\Debug\SySProduccion.exe
+F:\VBESKO\SySProduccion\SySProduccion\bin\Debug\SySProduccion.pdb
+F:\VBESKO\SySProduccion\SySProduccion\bin\Debug\SySProduccion.xml
+F:\VBESKO\SySProduccion\SySProduccion\bin\Debug\ClaseDatos.dll
+F:\VBESKO\SySProduccion\SySProduccion\bin\Debug\ClaseNegocios.dll
+F:\VBESKO\SySProduccion\SySProduccion\bin\Debug\ClaseConexion.dll
+F:\VBESKO\SySProduccion\SySProduccion\bin\Debug\ClaseDatos.pdb
+F:\VBESKO\SySProduccion\SySProduccion\bin\Debug\ClaseDatos.xml
+F:\VBESKO\SySProduccion\SySProduccion\bin\Debug\ClaseNegocios.pdb
+F:\VBESKO\SySProduccion\SySProduccion\bin\Debug\ClaseNegocios.xml
+F:\VBESKO\SySProduccion\SySProduccion\bin\Debug\ClaseConexion.pdb
+F:\VBESKO\SySProduccion\SySProduccion\bin\Debug\ClaseConexion.xml
+F:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmACDEM.resources
+F:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.Resources.resources
+F:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.Form1.resources
+F:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.Form2.resources
+F:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmAClaAcc.resources
+F:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmAPrmPrn.resources
+F:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmATALM.resources
+F:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmATBCO.resources
+F:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmATCLI.resources
+F:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmATGRI.resources
+F:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmATSGI.resources
+F:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmATUME.resources
+F:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmGDialogo.resources
+F:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmIEINV.resources
+F:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmIEDMI.resources
+F:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmANumDoc.resources
+F:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmAPmtGral.resources
+F:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmATUSR.resources
+F:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmIReVlzInv.resources
+F:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmISINV.resources
+F:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmITRINV.resources
+F:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmTEDMT.resources
+F:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.mdiPpal.resources
+F:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmGMnuPpal.resources
+F:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmGLogin.resources
+D:\VBESKO\SySProduccion\SySProduccion\obj\x
+G:\VBESKO\SySProduccion\SySProduccion\bin\Debug\SySProduccion.exe.config
+G:\VBESKO\SySProduccion\SySProduccion\bin\Debug\SySProduccion.exe
+G:\VBESKO\SySProduccion\SySProduccion\bin\Debug\SySProduccion.pdb
+G:\VBESKO\SySProduccion\SySProduccion\bin\Debug\SySProduccion.xml
+G:\VBESKO\SySProduccion\SySProduccion\bin\Debug\ClaseDatos.dll
+G:\VBESKO\SySProduccion\SySProduccion\bin\Debug\ClaseNegocios.dll
+G:\VBESKO\SySProduccion\SySProduccion\bin\Debug\ClaseConexion.dll
+G:\VBESKO\SySProduccion\SySProduccion\bin\Debug\ClaseDatos.pdb
+G:\VBESKO\SySProduccion\SySProduccion\bin\Debug\ClaseDatos.xml
+G:\VBESKO\SySProduccion\SySProduccion\bin\Debug\ClaseNegocios.pdb
+G:\VBESKO\SySProduccion\SySProduccion\bin\Debug\ClaseNegocios.xml
+G:\VBESKO\SySProduccion\SySProduccion\bin\Debug\ClaseConexion.pdb
+G:\VBESKO\SySProduccion\SySProduccion\bin\Debug\ClaseConexion.xml
+G:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.vbproj.ResolveComReference.cache
+G:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmBEDEP.resources
+G:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmBEPAE.resources
+G:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmBEPAR.resources
+G:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmCEENI.resources
+G:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmCEFAP.resources
+G:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmCENOC.resources
+G:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmCENOD.resources
+G:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmCEODC.resources
+G:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmCESAI.resources
+G:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmCECCO.resources
+G:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmCEACO.resources
+G:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmCEPUC.resources
+G:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmCECOP.resources
+G:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmATCTC.resources
+G:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmATPAC.resources
+G:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmATCIU.resources
+G:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmATPRE.resources
+G:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmATCIF.resources
+G:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmATGCL.resources
+G:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmATIVA.resources
+G:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmATRET.resources
+G:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmATCOP.resources
+G:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmATGPR.resources
+G:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmATVEN.resources
+G:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmGCBIN.resources
+G:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmGQLst.resources
+G:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmGQLstDet.resources
+G:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmGCSIT.resources
+G:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmAPDOC.resources
+G:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmGCCIP.resources
+G:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmGAPUS.resources
+G:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmATCDT.resources
+G:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmATOPP.resources
+G:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmATPCO.resources
+G:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmAPPRN.resources
+G:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmATALM.resources
+G:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmATBCO.resources
+G:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmATCLI.resources
+G:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmATGRI.resources
+G:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmATAUT.resources
+G:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmATSGI.resources
+G:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmATUME.resources
+G:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmATUPE.resources
+G:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmATZON.resources
+G:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmIELSP.resources
+G:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmIEENI.resources
+G:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmIEDMI.resources
+G:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmACPAG.resources
+G:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmACDEM.resources
+G:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmATUSR.resources
+G:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmGIREV.resources
+G:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmIESAI.resources
+G:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmIETRI.resources
+G:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmPEEDP.resources
+G:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmPELIM.resources
+G:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmPEODP.resources
+G:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmPERCI.resources
+G:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmPESDM.resources
+G:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmPEROP.resources
+G:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmTEDMT.resources
+G:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.mdiPpal.resources
+G:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmGMnuPpal.resources
+G:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmGLogin.resources
+G:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.Resources.resources
+G:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmTEGRC.resources
+G:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmTEGRP.resources
+G:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmVEENI.resources
+G:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmVEFAC.resources
+G:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmVENOC.resources
+G:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmVENOD.resources
+G:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmVEPED.resources
+G:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmVESAI.resources
+G:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\GenerateResource.read.1.tlog
+G:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\GenerateResource.write.1.tlog
+G:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\RdlCompile.cache
+G:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\RdlCompile.compiled
+G:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.exe
+G:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.xml
+G:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.pdb
+G:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmAPEND.resources
+G:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmATMEP.resources
+C:\VBESKO\SySProduccion\SySProduccion\bin\Debug\SySProduccion.exe.config
+C:\VBESKO\SySProduccion\SySProduccion\bin\Debug\SySProduccion.exe
+C:\VBESKO\SySProduccion\SySProduccion\bin\Debug\SySProduccion.pdb
+C:\VBESKO\SySProduccion\SySProduccion\bin\Debug\SySProduccion.xml
+C:\VBESKO\SySProduccion\SySProduccion\bin\Debug\ClaseDatos.dll
+C:\VBESKO\SySProduccion\SySProduccion\bin\Debug\ClaseNegocios.dll
+C:\VBESKO\SySProduccion\SySProduccion\bin\Debug\ClaseConexion.dll
+C:\VBESKO\SySProduccion\SySProduccion\bin\Debug\ClaseDatos.pdb
+C:\VBESKO\SySProduccion\SySProduccion\bin\Debug\ClaseDatos.xml
+C:\VBESKO\SySProduccion\SySProduccion\bin\Debug\ClaseNegocios.pdb
+C:\VBESKO\SySProduccion\SySProduccion\bin\Debug\ClaseNegocios.xml
+C:\VBESKO\SySProduccion\SySProduccion\bin\Debug\ClaseConexion.pdb
+C:\VBESKO\SySProduccion\SySProduccion\bin\Debug\ClaseConexion.xml
+C:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.vbprojResolveAssemblyReference.cache
+C:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.vbproj.ResolveComReference.cache
+C:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmGQGEMOV.resources
+C:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmAcerca.resources
+C:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmBEDEP.resources
+C:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmBEPAE.resources
+C:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmBEPAR.resources
+C:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmCEENI.resources
+C:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmCEFAP.resources
+C:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmCENOC.resources
+C:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmCENOD.resources
+C:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmCEODC.resources
+C:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmCESAI.resources
+C:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmCR001.resources
+C:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmCR002.resources
+C:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmATMEP.resources
+C:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmATCTC.resources
+C:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmATPAC.resources
+C:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmATCIU.resources
+C:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmATPRE.resources
+C:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmATCIF.resources
+C:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmATGCL.resources
+C:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmATIVA.resources
+C:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmATRET.resources
+C:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmATCOP.resources
+C:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmATGPR.resources
+C:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmATVEN.resources
+C:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmAPLND1.resources
+C:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmGCBIN.resources
+C:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmGQLst.resources
+C:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmGQLstDet.resources
+C:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmGCSIT.resources
+C:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmAPDOC.resources
+C:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmGCCIP.resources
+C:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmGAPUS.resources
+C:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmATPCO.resources
+C:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmAPPRN.resources
+C:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmATALM.resources
+C:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmATBCO.resources
+C:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmATCLI.resources
+C:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmATGRI.resources
+C:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmATAUT.resources
+C:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmATSGI.resources
+C:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmATZON.resources
+C:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmIELSP.resources
+C:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmILDMI2.resources
+C:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmIEENI.resources
+C:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmIEDMI.resources
+C:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmAPEND.resources
+C:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmACPAG.resources
+C:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmACDEM.resources
+C:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmATUSR.resources
+C:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmIESAI.resources
+C:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmIETRI.resources
+C:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.rptCOOC001.resources
+C:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.rptCOOS001.resources
+C:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.rptCOSC001.resources
+C:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmPEEDP.resources
+C:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmPELIM.resources
+C:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmPEODP.resources
+C:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmPERCI.resources
+C:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmPESDM.resources
+C:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmPEROP.resources
+C:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmTEDMT.resources
+C:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.mdiPpal.resources
+C:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmGMnuPpal.resources
+C:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmGLogin.resources
+C:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.Resources.resources
+C:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmTEGRC.resources
+C:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmTEGRP.resources
+C:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmVEENI.resources
+C:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmVEFAC.resources
+C:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmVENOC.resources
+C:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmVENOD.resources
+C:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmVEPED.resources
+C:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmVESAI.resources
+C:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.vbproj.GenerateResource.Cache
+C:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\RdlCompile.cache
+C:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\RdlCompile.compiled
+C:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.exe
+C:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.xml
+C:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.pdb
+C:\SysProduccion\SySProduccion\SySProduccion\bin\Debug\SySProduccion.exe.config
+C:\SysProduccion\SySProduccion\SySProduccion\bin\Debug\SySProduccion.exe
+C:\SysProduccion\SySProduccion\SySProduccion\bin\Debug\SySProduccion.pdb
+C:\SysProduccion\SySProduccion\SySProduccion\bin\Debug\SySProduccion.xml
+C:\SysProduccion\SySProduccion\SySProduccion\bin\Debug\ClaseDatos.dll
+C:\SysProduccion\SySProduccion\SySProduccion\bin\Debug\ClaseNegocios.dll
+C:\SysProduccion\SySProduccion\SySProduccion\bin\Debug\ClaseConexion.dll
+C:\SysProduccion\SySProduccion\SySProduccion\bin\Debug\ClaseDatos.pdb
+C:\SysProduccion\SySProduccion\SySProduccion\bin\Debug\ClaseDatos.xml
+C:\SysProduccion\SySProduccion\SySProduccion\bin\Debug\ClaseNegocios.pdb
+C:\SysProduccion\SySProduccion\SySProduccion\bin\Debug\ClaseNegocios.xml
+C:\SysProduccion\SySProduccion\SySProduccion\bin\Debug\ClaseConexion.pdb
+C:\SysProduccion\SySProduccion\SySProduccion\bin\Debug\ClaseConexion.xml
+C:\SysProduccion\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.vbprojResolveAssemblyReference.cache
+C:\SysProduccion\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.vbproj.ResolveComReference.cache
+C:\SysProduccion\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmGQGEMOV.resources
+C:\SysProduccion\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmAcerca.resources
+C:\SysProduccion\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmBEDEP.resources
+C:\SysProduccion\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmBEPAE.resources
+C:\SysProduccion\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmBEPAR.resources
+C:\SysProduccion\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmCEENI.resources
+C:\SysProduccion\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmCEFAP.resources
+C:\SysProduccion\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmCENOC.resources
+C:\SysProduccion\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmCENOD.resources
+C:\SysProduccion\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmCEODC.resources
+C:\SysProduccion\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmCESAI.resources
+C:\SysProduccion\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmFECCO.resources
+C:\SysProduccion\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmFEACO.resources
+C:\SysProduccion\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmFEPUC.resources
+C:\SysProduccion\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmFECOP.resources
+C:\SysProduccion\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmCR001.resources
+C:\SysProduccion\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmCR002.resources
+C:\SysProduccion\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmATMEP.resources
+C:\SysProduccion\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmATCTC.resources
+C:\SysProduccion\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmATPAC.resources
+C:\SysProduccion\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmATCIU.resources
+C:\SysProduccion\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmATPRE.resources
+C:\SysProduccion\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmATCIF.resources
+C:\SysProduccion\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmATGCL.resources
+C:\SysProduccion\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmATIVA.resources
+C:\SysProduccion\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmATRET.resources
+C:\SysProduccion\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmATCOP.resources
+C:\SysProduccion\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmATGPR.resources
+C:\SysProduccion\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmATVEN.resources
+C:\SysProduccion\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmAPLND1.resources
+C:\SysProduccion\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmGCBIN.resources
+C:\SysProduccion\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmGQLst.resources
+C:\SysProduccion\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmGQLstDet.resources
+C:\SysProduccion\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmGCSIT.resources
+C:\SysProduccion\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmAPDOC.resources
+C:\SysProduccion\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmGCCIP.resources
+C:\SysProduccion\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmGAPUS.resources
+C:\SysProduccion\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmATCTR.resources
+C:\SysProduccion\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmATOPP.resources
+C:\SysProduccion\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmATPCO.resources
+C:\SysProduccion\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmAPPRN.resources
+C:\SysProduccion\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmATALM.resources
+C:\SysProduccion\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmATBCO.resources
+C:\SysProduccion\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmATCLI.resources
+C:\SysProduccion\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmATGRI.resources
+C:\SysProduccion\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmATAUT.resources
+C:\SysProduccion\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmATSGI.resources
+C:\SysProduccion\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmATUME.resources
+C:\SysProduccion\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmATUPE.resources
+C:\SysProduccion\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmATZON.resources
+C:\SysProduccion\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmIEREV.resources
+C:\SysProduccion\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmIEENI.resources
+C:\SysProduccion\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmIELSP.resources
+C:\SysProduccion\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmIESAI.resources
+C:\SysProduccion\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmIETRI.resources
+C:\SysProduccion\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmILDMI2.resources
+C:\SysProduccion\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmIEDMI.resources
+C:\SysProduccion\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmAPEND.resources
+C:\SysProduccion\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmACPAG.resources
+C:\SysProduccion\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmACDEM.resources
+C:\SysProduccion\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmATUSR.resources
+C:\SysProduccion\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.rptCOOC001.resources
+C:\SysProduccion\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.rptCOOS001.resources
+C:\SysProduccion\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.rptCOSC001.resources
+C:\SysProduccion\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.rptPROP001.resources
+C:\SysProduccion\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.rptPROP002.resources
+C:\SysProduccion\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.rptPRSM001.resources
+C:\SysProduccion\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmPEEDP.resources
+C:\SysProduccion\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmPEFOM.resources
+C:\SysProduccion\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmPELIM.resources
+C:\SysProduccion\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmPEODP.resources
+C:\SysProduccion\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmPERCI.resources
+C:\SysProduccion\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmPESDM.resources
+C:\SysProduccion\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmPEROP.resources
+C:\SysProduccion\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.rptPROP003.resources
+C:\SysProduccion\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmTEDMT.resources
+C:\SysProduccion\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.mdiPpal.resources
+C:\SysProduccion\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmGMnuPpal.resources
+C:\SysProduccion\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmGLogin.resources
+C:\SysProduccion\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.Resources.resources
+C:\SysProduccion\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmTEGRC.resources
+C:\SysProduccion\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmTEGRP.resources
+C:\SysProduccion\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmVEENI.resources
+C:\SysProduccion\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmVEFAC.resources
+C:\SysProduccion\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmVENOC.resources
+C:\SysProduccion\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmVENOD.resources
+C:\SysProduccion\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmVEPED.resources
+C:\SysProduccion\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmVESAI.resources
+C:\SysProduccion\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.vbproj.GenerateResource.Cache
+C:\SysProduccion\SySProduccion\SySProduccion\obj\x86\Debug\RdlCompile.cache
+C:\SysProduccion\SySProduccion\SySProduccion\obj\x86\Debug\RdlCompile.compiled
+C:\SysProduccion\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.exe
+C:\SysProduccion\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.xml
+C:\SysProduccion\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.pdb
+C:\Users\Jaime Sutachán\Dropbox\VBESKO\SySProduccion\SySProduccion\bin\Debug\SySProduccion.exe.config
+C:\Users\Jaime Sutachán\Dropbox\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\Interop.CrystalReportsCommonObjectModelLib.dll
+C:\Users\Jaime Sutachán\Dropbox\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\Interop.CrystalReportsDataDefModelLib.dll
+C:\Users\Jaime Sutachán\Dropbox\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.vbproj.ResolveComReference.cache
+C:\Users\Jaime Sutachán\Dropbox\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.exe
+C:\Users\Jaime Sutachán\Dropbox\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.xml
+C:\Users\Jaime Sutachán\Dropbox\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.pdb
+C:\Users\Jaime Sutachán\Dropbox\VBESKO\SySProduccion\SySProduccion\bin\Debug\SySProduccion.exe.manifest
+C:\Users\Jaime Sutachán\Dropbox\VBESKO\SySProduccion\SySProduccion\bin\Debug\SySProduccion.application
+C:\Users\Jaime Sutachán\Dropbox\VBESKO\SySProduccion\SySProduccion\bin\Debug\SySProduccion.exe
+C:\Users\Jaime Sutachán\Dropbox\VBESKO\SySProduccion\SySProduccion\bin\Debug\SySProduccion.pdb
+C:\Users\Jaime Sutachán\Dropbox\VBESKO\SySProduccion\SySProduccion\bin\Debug\SySProduccion.xml
+C:\Users\Jaime Sutachán\Dropbox\VBESKO\SySProduccion\SySProduccion\bin\Debug\ClaseDatos.dll
+C:\Users\Jaime Sutachán\Dropbox\VBESKO\SySProduccion\SySProduccion\bin\Debug\ClaseNegocios.dll
+C:\Users\Jaime Sutachán\Dropbox\VBESKO\SySProduccion\SySProduccion\bin\Debug\ClaseConexion.dll
+C:\Users\Jaime Sutachán\Dropbox\VBESKO\SySProduccion\SySProduccion\bin\Debug\ClaseDatos.pdb
+C:\Users\Jaime Sutachán\Dropbox\VBESKO\SySProduccion\SySProduccion\bin\Debug\ClaseDatos.xml
+C:\Users\Jaime Sutachán\Dropbox\VBESKO\SySProduccion\SySProduccion\bin\Debug\ClaseNegocios.pdb
+C:\Users\Jaime Sutachán\Dropbox\VBESKO\SySProduccion\SySProduccion\bin\Debug\ClaseNegocios.xml
+C:\Users\Jaime Sutachán\Dropbox\VBESKO\SySProduccion\SySProduccion\bin\Debug\ClaseConexion.pdb
+C:\Users\Jaime Sutachán\Dropbox\VBESKO\SySProduccion\SySProduccion\bin\Debug\ClaseConexion.xml
+C:\Users\Jaime Sutachán\Dropbox\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.vbprojResolveAssemblyReference.cache
+C:\Users\Jaime Sutachán\Dropbox\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmGQGEMOV.resources
+C:\Users\Jaime Sutachán\Dropbox\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmAcerca.resources
+C:\Users\Jaime Sutachán\Dropbox\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmBEDEP.resources
+C:\Users\Jaime Sutachán\Dropbox\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmBEPAE.resources
+C:\Users\Jaime Sutachán\Dropbox\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmBEPAR.resources
+C:\Users\Jaime Sutachán\Dropbox\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmCEENI.resources
+C:\Users\Jaime Sutachán\Dropbox\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmCEFAP.resources
+C:\Users\Jaime Sutachán\Dropbox\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmCENOC.resources
+C:\Users\Jaime Sutachán\Dropbox\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmCENOD.resources
+C:\Users\Jaime Sutachán\Dropbox\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmCEODC.resources
+C:\Users\Jaime Sutachán\Dropbox\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmCESAI.resources
+C:\Users\Jaime Sutachán\Dropbox\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmFECCO.resources
+C:\Users\Jaime Sutachán\Dropbox\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmFEACO.resources
+C:\Users\Jaime Sutachán\Dropbox\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmFTPUC.resources
+C:\Users\Jaime Sutachán\Dropbox\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmFECOP.resources
+C:\Users\Jaime Sutachán\Dropbox\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmCR001.resources
+C:\Users\Jaime Sutachán\Dropbox\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmCR002.resources
+C:\Users\Jaime Sutachán\Dropbox\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmATMEP.resources
+C:\Users\Jaime Sutachán\Dropbox\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmATCTC.resources
+C:\Users\Jaime Sutachán\Dropbox\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmATPAC.resources
+C:\Users\Jaime Sutachán\Dropbox\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmATCIU.resources
+C:\Users\Jaime Sutachán\Dropbox\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmATPOP.resources
+C:\Users\Jaime Sutachán\Dropbox\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmATPRE.resources
+C:\Users\Jaime Sutachán\Dropbox\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmATCIF.resources
+C:\Users\Jaime Sutachán\Dropbox\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmATGCL.resources
+C:\Users\Jaime Sutachán\Dropbox\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmATIVA.resources
+C:\Users\Jaime Sutachán\Dropbox\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmATRET.resources
+C:\Users\Jaime Sutachán\Dropbox\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmATCOP.resources
+C:\Users\Jaime Sutachán\Dropbox\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmATGPR.resources
+C:\Users\Jaime Sutachán\Dropbox\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmATVEN.resources
+C:\Users\Jaime Sutachán\Dropbox\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmAPDGV.resources
+C:\Users\Jaime Sutachán\Dropbox\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmAPFRM.resources
+C:\Users\Jaime Sutachán\Dropbox\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmAPGQLst.resources
+C:\Users\Jaime Sutachán\Dropbox\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmAPQDG.resources
+C:\Users\Jaime Sutachán\Dropbox\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmASRES.resources
+C:\Users\Jaime Sutachán\Dropbox\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmAPLND1.resources
+C:\Users\Jaime Sutachán\Dropbox\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmGCBIN.resources
+C:\Users\Jaime Sutachán\Dropbox\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmGQLst.resources
+C:\Users\Jaime Sutachán\Dropbox\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmGQLstDet.resources
+C:\Users\Jaime Sutachán\Dropbox\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmGCSIT.resources
+C:\Users\Jaime Sutachán\Dropbox\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmAPDOC.resources
+C:\Users\Jaime Sutachán\Dropbox\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmGCCIP.resources
+C:\Users\Jaime Sutachán\Dropbox\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmGAPUS.resources
+C:\Users\Jaime Sutachán\Dropbox\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmATCTR.resources
+C:\Users\Jaime Sutachán\Dropbox\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmATOPE.resources
+C:\Users\Jaime Sutachán\Dropbox\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmATPCO.resources
+C:\Users\Jaime Sutachán\Dropbox\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmAPPRN.resources
+C:\Users\Jaime Sutachán\Dropbox\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmATALM.resources
+C:\Users\Jaime Sutachán\Dropbox\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmATBCO.resources
+C:\Users\Jaime Sutachán\Dropbox\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmATCLI.resources
+C:\Users\Jaime Sutachán\Dropbox\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmATGRI.resources
+C:\Users\Jaime Sutachán\Dropbox\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmATAUT.resources
+C:\Users\Jaime Sutachán\Dropbox\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmATSGI.resources
+C:\Users\Jaime Sutachán\Dropbox\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmABUNI.resources
+C:\Users\Jaime Sutachán\Dropbox\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmATZON.resources
+C:\Users\Jaime Sutachán\Dropbox\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmRIDMI01.resources
+C:\Users\Jaime Sutachán\Dropbox\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmRIDMI02.resources
+C:\Users\Jaime Sutachán\Dropbox\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmRIDMI03.resources
+C:\Users\Jaime Sutachán\Dropbox\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmRIMOV01.resources
+C:\Users\Jaime Sutachán\Dropbox\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.rptRIDMI01.resources
+C:\Users\Jaime Sutachán\Dropbox\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.rptRIDMI02.resources
+C:\Users\Jaime Sutachán\Dropbox\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.rptRIDMI03.resources
+C:\Users\Jaime Sutachán\Dropbox\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.rptRIMOV01.resources
+C:\Users\Jaime Sutachán\Dropbox\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmIEREV.resources
+C:\Users\Jaime Sutachán\Dropbox\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmIEENI.resources
+C:\Users\Jaime Sutachán\Dropbox\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmIELSP.resources
+C:\Users\Jaime Sutachán\Dropbox\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmIESAI.resources
+C:\Users\Jaime Sutachán\Dropbox\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmIETRI.resources
+C:\Users\Jaime Sutachán\Dropbox\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmILDMI2.resources
+C:\Users\Jaime Sutachán\Dropbox\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmIEDMI.resources
+C:\Users\Jaime Sutachán\Dropbox\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmAPEND.resources
+C:\Users\Jaime Sutachán\Dropbox\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmACPAG.resources
+C:\Users\Jaime Sutachán\Dropbox\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmACDEM.resources
+C:\Users\Jaime Sutachán\Dropbox\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmATUSR.resources
+C:\Users\Jaime Sutachán\Dropbox\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.rptCOOC001.resources
+C:\Users\Jaime Sutachán\Dropbox\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.rptCOOS001.resources
+C:\Users\Jaime Sutachán\Dropbox\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.rptCOSC001.resources
+C:\Users\Jaime Sutachán\Dropbox\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.rptCRENI01.resources
+C:\Users\Jaime Sutachán\Dropbox\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.rptCRSAI01.resources
+C:\Users\Jaime Sutachán\Dropbox\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.rptIRENI01.resources
+C:\Users\Jaime Sutachán\Dropbox\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.rptIRSAI01.resources
+C:\Users\Jaime Sutachán\Dropbox\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.rptIRTRI01.resources
+C:\Users\Jaime Sutachán\Dropbox\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.rptIRTRI02.resources
+C:\Users\Jaime Sutachán\Dropbox\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.rptPRFOM01.resources
+C:\Users\Jaime Sutachán\Dropbox\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.rptPRLIM01.resources
+C:\Users\Jaime Sutachán\Dropbox\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.rptPROP001.resources
+C:\Users\Jaime Sutachán\Dropbox\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.rptPROP0011.resources
+C:\Users\Jaime Sutachán\Dropbox\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.rptPROP002.resources
+C:\Users\Jaime Sutachán\Dropbox\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.rptPROP004.resources
+C:\Users\Jaime Sutachán\Dropbox\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.rptPRSM001.resources
+C:\Users\Jaime Sutachán\Dropbox\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.rptPROP0012.resources
+C:\Users\Jaime Sutachán\Dropbox\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.rptVEENI001.resources
+C:\Users\Jaime Sutachán\Dropbox\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.rptVEOD001.resources
+C:\Users\Jaime Sutachán\Dropbox\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmPEEDM.resources
+C:\Users\Jaime Sutachán\Dropbox\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmPEEDP.resources
+C:\Users\Jaime Sutachán\Dropbox\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmPEFOM.resources
+C:\Users\Jaime Sutachán\Dropbox\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmPELIM.resources
+C:\Users\Jaime Sutachán\Dropbox\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmPEODP.resources
+C:\Users\Jaime Sutachán\Dropbox\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmPERCI.resources
+C:\Users\Jaime Sutachán\Dropbox\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmPESDM.resources
+C:\Users\Jaime Sutachán\Dropbox\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmPEROP.resources
+C:\Users\Jaime Sutachán\Dropbox\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.rptPROP003.resources
+C:\Users\Jaime Sutachán\Dropbox\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmRPODP01.resources
+C:\Users\Jaime Sutachán\Dropbox\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmRPODP02.resources
+C:\Users\Jaime Sutachán\Dropbox\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.rptPRODP02.resources
+C:\Users\Jaime Sutachán\Dropbox\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.rptPRRP001.resources
+C:\Users\Jaime Sutachán\Dropbox\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.rptPRRP002.resources
+C:\Users\Jaime Sutachán\Dropbox\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.rptPRRP003.resources
+C:\Users\Jaime Sutachán\Dropbox\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmTEDMT.resources
+C:\Users\Jaime Sutachán\Dropbox\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.mdiPpal.resources
+C:\Users\Jaime Sutachán\Dropbox\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmGMnuPpal.resources
+C:\Users\Jaime Sutachán\Dropbox\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmGLogin.resources
+C:\Users\Jaime Sutachán\Dropbox\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.Resources.resources
+C:\Users\Jaime Sutachán\Dropbox\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmTEGRC.resources
+C:\Users\Jaime Sutachán\Dropbox\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmTEGRP.resources
+C:\Users\Jaime Sutachán\Dropbox\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmVEENI.resources
+C:\Users\Jaime Sutachán\Dropbox\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmVEFAC.resources
+C:\Users\Jaime Sutachán\Dropbox\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmVENOC.resources
+C:\Users\Jaime Sutachán\Dropbox\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmVENOD.resources
+C:\Users\Jaime Sutachán\Dropbox\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmVEPED.resources
+C:\Users\Jaime Sutachán\Dropbox\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmVESAI.resources
+C:\Users\Jaime Sutachán\Dropbox\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.vbproj.GenerateResource.Cache
+C:\Users\Jaime Sutachán\Dropbox\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\RdlCompile.cache
+C:\Users\Jaime Sutachán\Dropbox\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\RdlCompile.compiled
+C:\Users\Jaime Sutachán\Dropbox\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.TrustInfo.xml
+C:\Users\Jaime Sutachán\Dropbox\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.exe.manifest
+C:\Users\Jaime Sutachán\Dropbox\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.application
+C:\VBESKO\SySProduccion\SySProduccion\bin\Debug\SySProduccion.exe.manifest
+C:\VBESKO\SySProduccion\SySProduccion\bin\Debug\SySProduccion.application
+C:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmCRODC01.resources
+C:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.rptCRODC01.resources
+C:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmATCCO.resources
+C:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmFEACO.resources
+C:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmFTPUC.resources
+C:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmFECOP.resources
+C:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmATAUTLst.resources
+C:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmATTIN.resources
+C:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmATANA.resources
+C:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmATPOP.resources
+C:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmATTIA.resources
+C:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmAPDGV.resources
+C:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmAPFRM.resources
+C:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmAPGQLst.resources
+C:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmAPQDG.resources
+C:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmASRES.resources
+C:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmASRES_LeeItm.resources
+C:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmASRES_LeeOdp.resources
+C:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmATCTR.resources
+C:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmATOPE.resources
+C:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmACUNI.resources
+C:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmRIDMI04.resources
+C:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmRIDMI01.resources
+C:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmRIDMI02.resources
+C:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmRIDMI03.resources
+C:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmRIMOV01.resources
+C:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmRIMOV02.resources
+C:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmIRMOV03.resources
+C:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.rptIRMOV03.resources
+C:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.rptRIDMI01.resources
+C:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.rptRIDMI02.resources
+C:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.rptRIDMI03.resources
+C:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.rptRIDMI04.resources
+C:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.rptRIMOV01.resources
+C:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.rptRIMOV02.resources
+C:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmIEREV.resources
+C:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.rptCRENI01.resources
+C:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.rptCRSAI01.resources
+C:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.rptATTIN.resources
+C:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.rptIRENI01.resources
+C:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.rptIRSAI01.resources
+C:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.rptIRTRI01.resources
+C:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.rptIRTRI02.resources
+C:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.rptRIREV01.resources
+C:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.rptPREDM01.resources
+C:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.rptPREDP01.resources
+C:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.rptPRFOM01.resources
+C:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.rptPRLIM01.resources
+C:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.rptPROP001.resources
+C:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.rptPROP0011.resources
+C:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.rptPROP002.resources
+C:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.rptPROP004.resources
+C:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.rptPRROP01.resources
+C:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.rptPRSDP01.resources
+C:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.rptPRSM001.resources
+C:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.rptPROP0012.resources
+C:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.rptVEENI001.resources
+C:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.rptVEOD001.resources
+C:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmPEEDM.resources
+C:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmPEFOM.resources
+C:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.rptPROP003.resources
+C:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmPESDP.resources
+C:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmPQLIM01.resources
+C:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmPQLIM02.resources
+C:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmPQROP01.resources
+C:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmPQROP02.resources
+C:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.rptPQLIM02.resources
+C:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmPRCTE01.resources
+C:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmPRODP03.resources
+C:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmPRODP04.resources
+C:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmPRODP01.resources
+C:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmPRODP02.resources
+C:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.rptPRODP02.resources
+C:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.rptPRODP031.resources
+C:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.rptPRODP032.resources
+C:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.rptRPROP01.resources
+C:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.rptPRRP001.resources
+C:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.rptPRRP002.resources
+C:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.rptPRRP003.resources
+C:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.rptPRRP004.resources
+C:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.TrustInfo.xml
+C:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.exe.manifest
+C:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.application
+C:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmIEENI_LeeENT.resources
+C:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmIESAI_LeeSAL.resources
+C:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmPRODP05.resources
+C:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.rptPRODP05.resources
+C:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.rptPROP006.resources
+C:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmPEFOM_LeeFOM.resources
+C:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmPELIM_LeeLIM.resources
+C:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmPEODP_SelItm.resources
+C:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmPEODP_SelRpt.resources
+C:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmPEROD.resources
+C:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmPEROD_Opc.resources
+C:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmPEROD_Sec.resources
+C:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmPEROD_Sec01.resources
+C:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmPEROD_Sec02.resources
+C:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmPEROD_Sec03.resources
+C:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmPEROD_Sec04.resources
+C:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmPEROD_Sec05.resources
+C:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmPEROD_Sec06.resources
+C:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmPEROD_Sec07.resources
+C:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmPEROD_Sec08.resources
+C:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmPEROD_Sec09.resources
+C:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmPEROD_Sec10.resources
+C:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmPEROD_Sec14.resources
+C:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmPEROD_Sec15.resources
+C:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmPEROD_Sec16.resources
+C:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmPEROD_Sec99.resources
+C:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmPEROD_TecNum.resources
+C:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.rptPRODP04.resources
+C:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmPRROD01.resources
+D:\VBESKO\SySProduccion\SySProduccion\bin\Debug\SySProduccion.exe.config
+D:\VBESKO\SySProduccion\SySProduccion\bin\Debug\SySProduccion.exe.manifest
+D:\VBESKO\SySProduccion\SySProduccion\bin\Debug\SySProduccion.application
+D:\VBESKO\SySProduccion\SySProduccion\bin\Debug\SySProduccion.exe
+D:\VBESKO\SySProduccion\SySProduccion\bin\Debug\SySProduccion.pdb
+D:\VBESKO\SySProduccion\SySProduccion\bin\Debug\SySProduccion.xml
+D:\VBESKO\SySProduccion\SySProduccion\bin\Debug\ClaseDatos.dll
+D:\VBESKO\SySProduccion\SySProduccion\bin\Debug\ClaseNegocios.dll
+D:\VBESKO\SySProduccion\SySProduccion\bin\Debug\ClaseConexion.dll
+D:\VBESKO\SySProduccion\SySProduccion\bin\Debug\ClaseDatos.pdb
+D:\VBESKO\SySProduccion\SySProduccion\bin\Debug\ClaseDatos.xml
+D:\VBESKO\SySProduccion\SySProduccion\bin\Debug\ClaseNegocios.pdb
+D:\VBESKO\SySProduccion\SySProduccion\bin\Debug\ClaseNegocios.xml
+D:\VBESKO\SySProduccion\SySProduccion\bin\Debug\ClaseConexion.pdb
+D:\VBESKO\SySProduccion\SySProduccion\bin\Debug\ClaseConexion.xml
+D:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.vbprojResolveAssemblyReference.cache
+D:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.vbproj.ResolveComReference.cache
+D:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmCRODC01.resources
+D:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.rptCRODC01.resources
+D:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmGQGEMOV.resources
+D:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmAcerca.resources
+D:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmBEDEP.resources
+D:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmBEPAE.resources
+D:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmBEPAR.resources
+D:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmCEENI.resources
+D:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmCEFAP.resources
+D:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmCENOC.resources
+D:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmCENOD.resources
+D:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmCEODC.resources
+D:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmCESAI.resources
+D:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmATCCO.resources
+D:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmFEACO.resources
+D:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmFTPUC.resources
+D:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmFECOP.resources
+D:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmCR001.resources
+D:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmCR002.resources
+D:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmATMEP.resources
+D:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmATCTC.resources
+D:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmATPAC.resources
+D:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmATCIU.resources
+D:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmATZON.resources
+D:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmATAUTLst.resources
+D:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmATTIN.resources
+D:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmATANA.resources
+D:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmATPOP.resources
+D:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmATPRE.resources
+D:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmATCIF.resources
+D:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmATTIA.resources
+D:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmATGCL.resources
+D:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmATIVA.resources
+D:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmATRET.resources
+D:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmATCOP.resources
+D:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmATGPR.resources
+D:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmATVEN.resources
+D:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmAPDGV.resources
+D:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmAPFRM.resources
+D:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmAPGQLst.resources
+D:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmAPQDG.resources
+D:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmASRES.resources
+D:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmASRES_LeeItm.resources
+D:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmASRES_LeeOdp.resources
+D:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmAPLND1.resources
+D:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmGCBIN.resources
+D:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmGQLst.resources
+D:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmGQLstDet.resources
+D:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmGCSIT.resources
+D:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmAPDOC.resources
+D:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmGCCIP.resources
+D:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmGAPUS.resources
+D:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmATCTR.resources
+D:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmATOPE.resources
+D:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmATPCO.resources
+D:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmAPPRN.resources
+D:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmATALM.resources
+D:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmATBCO.resources
+D:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmATCLI.resources
+D:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmATGRI.resources
+D:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmATAUT.resources
+D:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmATSGI.resources
+D:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmACUNI.resources
+D:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmRIDMI04.resources
+D:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmRIDMI01.resources
+D:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmRIDMI02.resources
+D:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmRIDMI03.resources
+D:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmRIMOV01.resources
+D:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmRIMOV02.resources
+D:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmIRMOV03.resources
+D:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.rptIRMOV03.resources
+D:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.rptRIDMI01.resources
+D:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.rptRIDMI02.resources
+D:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.rptRIDMI03.resources
+D:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.rptRIDMI04.resources
+D:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.rptRIMOV01.resources
+D:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.rptRIMOV02.resources
+D:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmIEENI_LeeENT.resources
+D:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmIEREV.resources
+D:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmIEENI.resources
+D:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmIELSP.resources
+D:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmIESAI.resources
+D:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmIESAI_LeeSAL.resources
+D:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmIETRI.resources
+D:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmILDMI2.resources
+D:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmIEDMI.resources
+D:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmAPEND.resources
+D:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmACPAG.resources
+D:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmACDEM.resources
+D:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmATUSR.resources
+D:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.rptCOOC001.resources
+D:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.rptCOOS001.resources
+D:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.rptCOSC001.resources
+D:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.rptCRENI01.resources
+D:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.rptCRSAI01.resources
+D:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.rptATTIN.resources
+D:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.rptIRENI01.resources
+D:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.rptIRSAI01.resources
+D:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.rptIRTRI01.resources
+D:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.rptIRTRI02.resources
+D:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.rptRIREV01.resources
+D:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.rptPREDM01.resources
+D:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.rptPREDP01.resources
+D:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.rptPRFOM01.resources
+D:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.rptPRLIM01.resources
+D:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.rptPROP001.resources
+D:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.rptPROP0011.resources
+D:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.rptPROP002.resources
+D:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.rptPROP004.resources
+D:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.rptPROP006.resources
+D:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.rptPRROP01.resources
+D:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.rptPRSDP01.resources
+D:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.rptPRSM001.resources
+D:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.rptPROP0012.resources
+D:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.rptVEENI001.resources
+D:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.rptVEOD001.resources
+D:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmPEEDM.resources
+D:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmPEEDP.resources
+D:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmPEFOM.resources
+D:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmPEFOM_LeeFOM.resources
+D:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmPELIM.resources
+D:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmPELIM_LeeLIM.resources
+D:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmPEODP.resources
+D:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmPEODP_SelItm.resources
+D:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmPEODP_SelRpt.resources
+D:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmPERCI.resources
+D:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmActPEROD.resources
+D:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmActPERODAbr.resources
+D:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmActPERODCer.resources
+D:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmPEROD.resources
+D:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmPEROD_Opc.resources
+D:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmPEROD_Sec.resources
+D:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmPEROD_Sec01.resources
+D:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmPEROD_Sec02.resources
+D:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmPEROD_Sec03.resources
+D:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmPEROD_Sec04.resources
+D:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmPEROD_Sec05.resources
+D:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmPEROD_Sec06.resources
+D:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmPEROD_Sec07.resources
+D:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmPEROD_Sec08.resources
+D:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmPEROD_Sec09.resources
+D:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmPEROD_Sec10.resources
+D:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmPEROD_Sec14.resources
+D:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmPEROD_Sec15.resources
+D:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmPEROD_Sec16.resources
+D:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmPEROD_Sec99.resources
+D:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmPEROD_TecNum.resources
+D:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmPESDM.resources
+D:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmPEROP.resources
+D:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.rptPROP003.resources
+D:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmPESDP.resources
+D:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmPQLIM01.resources
+D:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmPQLIM02.resources
+D:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmPQROP01.resources
+D:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmPQROP02.resources
+D:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.rptPQLIM02.resources
+D:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmPRCTE01.resources
+D:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmPRODP05.resources
+D:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmPRODP03.resources
+D:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmPRODP04.resources
+D:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmPRODP01.resources
+D:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmPRODP02.resources
+D:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.rptPRODP02.resources
+D:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.rptPRODP031.resources
+D:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.rptPRODP032.resources
+D:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.rptPRODP04.resources
+D:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.rptRPROP01.resources
+D:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.rptPRRP001.resources
+D:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.rptPRRP002.resources
+D:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.rptPRRP003.resources
+D:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.rptPRRP004.resources
+D:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.rptPRODP05.resources
+D:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmPRROD01.resources
+D:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.rptPRROD011.resources
+D:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.rptPRROD012.resources
+D:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmTEDMT.resources
+D:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.mdiPpal.resources
+D:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmGMnuPpal.resources
+D:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmGLogin.resources
+D:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.Resources.resources
+D:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmTEGRC.resources
+D:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmTEGRP.resources
+D:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmVEENI.resources
+D:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmVEFAC.resources
+D:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmVENOC.resources
+D:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmVENOD.resources
+D:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmVEPED.resources
+D:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmVESAI.resources
+D:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.vbproj.GenerateResource.Cache
+D:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\RdlCompile.cache
+D:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\RdlCompile.compiled
+D:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.TrustInfo.xml
+D:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.exe.manifest
+D:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.application
+D:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.exe
+D:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.xml
+D:\VBESKO\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.pdb
+D:\VBESKO 2020\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.vbprojAssemblyReference.cache
+D:\VBESKO 2020\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.vbproj.ResolveComReference.cache
+D:\VBESKO 2020\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmCRODC01.resources
+D:\VBESKO 2020\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.rptCRODC01.resources
+D:\VBESKO 2020\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmGQGEMOV.resources
+D:\VBESKO 2020\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmAcerca.resources
+D:\VBESKO 2020\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmBEDEP.resources
+D:\VBESKO 2020\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmBEPAE.resources
+D:\VBESKO 2020\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmBEPAR.resources
+D:\VBESKO 2020\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmCEENI.resources
+D:\VBESKO 2020\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmCEFAP.resources
+D:\VBESKO 2020\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmCENOC.resources
+D:\VBESKO 2020\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmCENOD.resources
+D:\VBESKO 2020\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmCEODC.resources
+D:\VBESKO 2020\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmCESAI.resources
+D:\VBESKO 2020\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmATCCO.resources
+D:\VBESKO 2020\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmFEACO.resources
+D:\VBESKO 2020\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmFTPUC.resources
+D:\VBESKO 2020\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmFECOP.resources
+D:\VBESKO 2020\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmCR001.resources
+D:\VBESKO 2020\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmCR002.resources
+D:\VBESKO 2020\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmATMEP.resources
+D:\VBESKO 2020\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmATCTC.resources
+D:\VBESKO 2020\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmATPAC.resources
+D:\VBESKO 2020\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmATCIU.resources
+D:\VBESKO 2020\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmATZON.resources
+D:\VBESKO 2020\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmATAUTLst.resources
+D:\VBESKO 2020\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmATTIN.resources
+D:\VBESKO 2020\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmATANA.resources
+D:\VBESKO 2020\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmATPOP.resources
+D:\VBESKO 2020\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmATPRE.resources
+D:\VBESKO 2020\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmATCIF.resources
+D:\VBESKO 2020\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmATTIA.resources
+D:\VBESKO 2020\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmATGCL.resources
+D:\VBESKO 2020\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmATIVA.resources
+D:\VBESKO 2020\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmATRET.resources
+D:\VBESKO 2020\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmATCOP.resources
+D:\VBESKO 2020\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmATGPR.resources
+D:\VBESKO 2020\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmATVEN.resources
+D:\VBESKO 2020\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmAPDGV.resources
+D:\VBESKO 2020\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmAPFRM.resources
+D:\VBESKO 2020\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmAPGQLst.resources
+D:\VBESKO 2020\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmAPQDG.resources
+D:\VBESKO 2020\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmASRES.resources
+D:\VBESKO 2020\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmASRES_LeeItm.resources
+D:\VBESKO 2020\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmASRES_LeeOdp.resources
+D:\VBESKO 2020\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmAPLND1.resources
+D:\VBESKO 2020\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmGCBIN.resources
+D:\VBESKO 2020\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmGQLst.resources
+D:\VBESKO 2020\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmGQLstDet.resources
+D:\VBESKO 2020\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmGCSIT.resources
+D:\VBESKO 2020\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmAPDOC.resources
+D:\VBESKO 2020\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmGCCIP.resources
+D:\VBESKO 2020\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmGAPUS.resources
+D:\VBESKO 2020\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmATCTR.resources
+D:\VBESKO 2020\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmATOPE.resources
+D:\VBESKO 2020\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmATPCO.resources
+D:\VBESKO 2020\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmAPPRN.resources
+D:\VBESKO 2020\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmATALM.resources
+D:\VBESKO 2020\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmATBCO.resources
+D:\VBESKO 2020\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmATCLI.resources
+D:\VBESKO 2020\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmATGRI.resources
+D:\VBESKO 2020\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmATAUT.resources
+D:\VBESKO 2020\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmATSGI.resources
+D:\VBESKO 2020\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmACUNI.resources
+D:\VBESKO 2020\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmRIDMI04.resources
+D:\VBESKO 2020\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmRIDMI01.resources
+D:\VBESKO 2020\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmRIDMI02.resources
+D:\VBESKO 2020\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmRIDMI03.resources
+D:\VBESKO 2020\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmRIMOV01.resources
+D:\VBESKO 2020\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmRIMOV02.resources
+D:\VBESKO 2020\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmIRMOV03.resources
+D:\VBESKO 2020\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.rptIRMOV03.resources
+D:\VBESKO 2020\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.rptRIDMI01.resources
+D:\VBESKO 2020\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.rptRIDMI02.resources
+D:\VBESKO 2020\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.rptRIDMI03.resources
+D:\VBESKO 2020\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.rptRIDMI04.resources
+D:\VBESKO 2020\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.rptRIMOV01.resources
+D:\VBESKO 2020\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.rptRIMOV02.resources
+D:\VBESKO 2020\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmIEENI_LeeENT.resources
+D:\VBESKO 2020\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmIEREV.resources
+D:\VBESKO 2020\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmIEENI.resources
+D:\VBESKO 2020\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmIELSP.resources
+D:\VBESKO 2020\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmIESAI.resources
+D:\VBESKO 2020\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmIESAI_LeeSAL.resources
+D:\VBESKO 2020\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmIETRI.resources
+D:\VBESKO 2020\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmILDMI2.resources
+D:\VBESKO 2020\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmIEDMI.resources
+D:\VBESKO 2020\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmAPEND.resources
+D:\VBESKO 2020\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmACPAG.resources
+D:\VBESKO 2020\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmACDEM.resources
+D:\VBESKO 2020\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmATUSR.resources
+D:\VBESKO 2020\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.rptCOOC001.resources
+D:\VBESKO 2020\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.rptCOOS001.resources
+D:\VBESKO 2020\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.rptCOSC001.resources
+D:\VBESKO 2020\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.rptCRENI01.resources
+D:\VBESKO 2020\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.rptCRSAI01.resources
+D:\VBESKO 2020\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.rptATTIN.resources
+D:\VBESKO 2020\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.rptIRENI01.resources
+D:\VBESKO 2020\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.rptIRSAI01.resources
+D:\VBESKO 2020\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.rptIRTRI01.resources
+D:\VBESKO 2020\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.rptIRTRI02.resources
+D:\VBESKO 2020\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.rptRIREV01.resources
+D:\VBESKO 2020\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.rptPREDM01.resources
+D:\VBESKO 2020\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.rptPREDP01.resources
+D:\VBESKO 2020\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.rptPRFOM01.resources
+D:\VBESKO 2020\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.rptPRLIM01.resources
+D:\VBESKO 2020\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.rptPROP001.resources
+D:\VBESKO 2020\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.rptPROP0011.resources
+D:\VBESKO 2020\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.rptPROP002.resources
+D:\VBESKO 2020\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.rptPROP004.resources
+D:\VBESKO 2020\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.rptPROP006.resources
+D:\VBESKO 2020\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.rptPRROP01.resources
+D:\VBESKO 2020\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.rptPRSDP01.resources
+D:\VBESKO 2020\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.rptPRSM001.resources
+D:\VBESKO 2020\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.rptPROP0012.resources
+D:\VBESKO 2020\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.rptVEENI001.resources
+D:\VBESKO 2020\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.rptVEOD001.resources
+D:\VBESKO 2020\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmPEEDM.resources
+D:\VBESKO 2020\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmPEEDP.resources
+D:\VBESKO 2020\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmPEFOM.resources
+D:\VBESKO 2020\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmPEFOM_LeeFOM.resources
+D:\VBESKO 2020\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmPELIM.resources
+D:\VBESKO 2020\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmPELIM_LeeLIM.resources
+D:\VBESKO 2020\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmPEODP.resources
+D:\VBESKO 2020\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmPEODP_SelItm.resources
+D:\VBESKO 2020\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmPEODP_SelRpt.resources
+D:\VBESKO 2020\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmPERCI.resources
+D:\VBESKO 2020\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmActPEROD.resources
+D:\VBESKO 2020\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmActPERODAbr.resources
+D:\VBESKO 2020\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmActPERODCer.resources
+D:\VBESKO 2020\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmPEROD.resources
+D:\VBESKO 2020\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmPEROD_Opc.resources
+D:\VBESKO 2020\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmPEROD_Sec.resources
+D:\VBESKO 2020\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmPEROD_Sec01.resources
+D:\VBESKO 2020\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmPEROD_Sec02.resources
+D:\VBESKO 2020\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmPEROD_Sec03.resources
+D:\VBESKO 2020\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmPEROD_Sec04.resources
+D:\VBESKO 2020\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmPEROD_Sec05.resources
+D:\VBESKO 2020\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmPEROD_Sec06.resources
+D:\VBESKO 2020\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmPEROD_Sec07.resources
+D:\VBESKO 2020\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmPEROD_Sec08.resources
+D:\VBESKO 2020\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmPEROD_Sec09.resources
+D:\VBESKO 2020\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmPEROD_Sec10.resources
+D:\VBESKO 2020\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmPEROD_Sec14.resources
+D:\VBESKO 2020\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmPEROD_Sec15.resources
+D:\VBESKO 2020\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmPEROD_Sec16.resources
+D:\VBESKO 2020\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmPEROD_Sec99.resources
+D:\VBESKO 2020\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmPEROD_TecNum.resources
+D:\VBESKO 2020\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmPESDM.resources
+D:\VBESKO 2020\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmPEROP.resources
+D:\VBESKO 2020\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.rptPROP003.resources
+D:\VBESKO 2020\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmPESDP.resources
+D:\VBESKO 2020\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmPQLIM01.resources
+D:\VBESKO 2020\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmPQLIM02.resources
+D:\VBESKO 2020\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmPQROP01.resources
+D:\VBESKO 2020\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmPQROP02.resources
+D:\VBESKO 2020\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.rptPQLIM02.resources
+D:\VBESKO 2020\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmPRCTE01.resources
+D:\VBESKO 2020\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmPRODP05.resources
+D:\VBESKO 2020\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmPRODP03.resources
+D:\VBESKO 2020\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmPRODP04.resources
+D:\VBESKO 2020\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmPRODP01.resources
+D:\VBESKO 2020\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmPRODP02.resources
+D:\VBESKO 2020\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.rptPRODP02.resources
+D:\VBESKO 2020\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.rptPRODP031.resources
+D:\VBESKO 2020\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.rptPRODP032.resources
+D:\VBESKO 2020\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.rptPRODP04.resources
+D:\VBESKO 2020\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.rptRPROP01.resources
+D:\VBESKO 2020\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.rptPRRP001.resources
+D:\VBESKO 2020\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.rptPRRP002.resources
+D:\VBESKO 2020\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.rptPRRP003.resources
+D:\VBESKO 2020\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.rptPRRP004.resources
+D:\VBESKO 2020\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.rptPRODP05.resources
+D:\VBESKO 2020\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmPRROD01.resources
+D:\VBESKO 2020\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.rptPRROD011.resources
+D:\VBESKO 2020\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.rptPRROD012.resources
+D:\VBESKO 2020\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmTEDMT.resources
+D:\VBESKO 2020\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.mdiPpal.resources
+D:\VBESKO 2020\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmGMnuPpal.resources
+D:\VBESKO 2020\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmGLogin.resources
+D:\VBESKO 2020\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.Resources.resources
+D:\VBESKO 2020\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmTEGRC.resources
+D:\VBESKO 2020\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmTEGRP.resources
+D:\VBESKO 2020\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmVEENI.resources
+D:\VBESKO 2020\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmVEFAC.resources
+D:\VBESKO 2020\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmVENOC.resources
+D:\VBESKO 2020\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmVENOD.resources
+D:\VBESKO 2020\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmVEPED.resources
+D:\VBESKO 2020\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmVESAI.resources
+D:\VBESKO 2020\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.vbproj.GenerateResource.cache
+D:\VBESKO 2020\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.vbproj.CoreCompileInputs.cache
+D:\VBESKO 2020\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.TrustInfo.xml
+D:\VBESKO 2020\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.exe
+D:\VBESKO 2020\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.xml
+D:\VBESKO 2020\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.pdb
+D:\VBESKO 2020\SySProduccion\SySProduccion\bin\Debug\SySProduccion.exe.config
+D:\VBESKO 2020\SySProduccion\SySProduccion\bin\Debug\SySProduccion.exe.manifest
+D:\VBESKO 2020\SySProduccion\SySProduccion\bin\Debug\SySProduccion.application
+D:\VBESKO 2020\SySProduccion\SySProduccion\bin\Debug\SySProduccion.exe
+D:\VBESKO 2020\SySProduccion\SySProduccion\bin\Debug\SySProduccion.pdb
+D:\VBESKO 2020\SySProduccion\SySProduccion\bin\Debug\SySProduccion.xml
+D:\VBESKO 2020\SySProduccion\SySProduccion\bin\Debug\ClaseDatos.dll
+D:\VBESKO 2020\SySProduccion\SySProduccion\bin\Debug\ClaseNegocios.dll
+D:\VBESKO 2020\SySProduccion\SySProduccion\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\VBESKO 2020\SySProduccion\SySProduccion\bin\Debug\CrystalDecisions.Data.AdoDotNetInterop.dll
+D:\VBESKO 2020\SySProduccion\SySProduccion\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\VBESKO 2020\SySProduccion\SySProduccion\bin\Debug\CrystalDecisions.Shared.dll
+D:\VBESKO 2020\SySProduccion\SySProduccion\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\VBESKO 2020\SySProduccion\SySProduccion\bin\Debug\FlashControlV71.dll
+D:\VBESKO 2020\SySProduccion\SySProduccion\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\VBESKO 2020\SySProduccion\SySProduccion\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\VBESKO 2020\SySProduccion\SySProduccion\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.dll
+D:\VBESKO 2020\SySProduccion\SySProduccion\bin\Debug\ClaseConexion.dll
+D:\VBESKO 2020\SySProduccion\SySProduccion\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\VBESKO 2020\SySProduccion\SySProduccion\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\VBESKO 2020\SySProduccion\SySProduccion\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\VBESKO 2020\SySProduccion\SySProduccion\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\VBESKO 2020\SySProduccion\SySProduccion\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\VBESKO 2020\SySProduccion\SySProduccion\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\VBESKO 2020\SySProduccion\SySProduccion\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\VBESKO 2020\SySProduccion\SySProduccion\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\VBESKO 2020\SySProduccion\SySProduccion\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\VBESKO 2020\SySProduccion\SySProduccion\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\VBESKO 2020\SySProduccion\SySProduccion\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\VBESKO 2020\SySProduccion\SySProduccion\bin\Debug\ShockwaveFlashObjects.dll
+D:\VBESKO 2020\SySProduccion\SySProduccion\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\VBESKO 2020\SySProduccion\SySProduccion\bin\Debug\stdole.dll
+D:\VBESKO 2020\SySProduccion\SySProduccion\bin\Debug\ClaseDatos.pdb
+D:\VBESKO 2020\SySProduccion\SySProduccion\bin\Debug\ClaseDatos.xml
+D:\VBESKO 2020\SySProduccion\SySProduccion\bin\Debug\ClaseNegocios.pdb
+D:\VBESKO 2020\SySProduccion\SySProduccion\bin\Debug\ClaseNegocios.xml
+D:\VBESKO 2020\SySProduccion\SySProduccion\bin\Debug\ClaseConexion.pdb
+D:\VBESKO 2020\SySProduccion\SySProduccion\bin\Debug\ClaseConexion.xml
+D:\VBESKO 2020\SySProduccion\SySProduccion\bin\Debug\es\Microsoft.VisualBasic.PowerPacks.Vs.resources.dll
+D:\VBESKO 2020\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.exe.manifest
+D:\VBESKO 2020\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.application
+D:\VBESKO 2020\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.vbproj.CopyComplete
+C:\VBESKO_VS2019\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.vbprojAssemblyReference.cache
+C:\VBESKO_VS2019\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.exe
+C:\VBESKO_VS2019\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.xml
+C:\VBESKO_VS2019\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.pdb
+C:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\SySProduccion.exe.config
+C:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\SySProduccion.exe.manifest
+C:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\SySProduccion.application
+C:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\SySProduccion.exe
+C:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\SySProduccion.pdb
+C:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\SySProduccion.xml
+C:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\ClaseConexion.dll
+C:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\ClaseDatos.dll
+C:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\ClaseNegocios.dll
+C:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\ClaseConexion.pdb
+C:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\ClaseConexion.xml
+C:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\ClaseDatos.pdb
+C:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\ClaseDatos.xml
+C:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\ClaseNegocios.pdb
+C:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\ClaseNegocios.xml
+C:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\es\Microsoft.VisualBasic.PowerPacks.Vs.resources.dll
+C:\VBESKO_VS2019\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.vbproj.ResolveComReference.cache
+C:\VBESKO_VS2019\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmCRODC01.resources
+C:\VBESKO_VS2019\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.rptCRODC01.resources
+C:\VBESKO_VS2019\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmGQGEMOV.resources
+C:\VBESKO_VS2019\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmAcerca.resources
+C:\VBESKO_VS2019\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmBEDEP.resources
+C:\VBESKO_VS2019\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmBEPAE.resources
+C:\VBESKO_VS2019\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmBEPAR.resources
+C:\VBESKO_VS2019\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmCEENI.resources
+C:\VBESKO_VS2019\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmCEFAP.resources
+C:\VBESKO_VS2019\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmCENOC.resources
+C:\VBESKO_VS2019\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmCENOD.resources
+C:\VBESKO_VS2019\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmCEODC.resources
+C:\VBESKO_VS2019\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmCESAI.resources
+C:\VBESKO_VS2019\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmATCCO.resources
+C:\VBESKO_VS2019\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmFEACO.resources
+C:\VBESKO_VS2019\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmFTPUC.resources
+C:\VBESKO_VS2019\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmFECOP.resources
+C:\VBESKO_VS2019\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmCR001.resources
+C:\VBESKO_VS2019\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmCR002.resources
+C:\VBESKO_VS2019\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmATMEP.resources
+C:\VBESKO_VS2019\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmATCTC.resources
+C:\VBESKO_VS2019\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmATPAC.resources
+C:\VBESKO_VS2019\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmATCIU.resources
+C:\VBESKO_VS2019\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmATZON.resources
+C:\VBESKO_VS2019\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmATAUTLst.resources
+C:\VBESKO_VS2019\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmATTIN.resources
+C:\VBESKO_VS2019\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmATANA.resources
+C:\VBESKO_VS2019\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmATPOP.resources
+C:\VBESKO_VS2019\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmATPRE.resources
+C:\VBESKO_VS2019\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmATCIF.resources
+C:\VBESKO_VS2019\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmATTIA.resources
+C:\VBESKO_VS2019\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmATGCL.resources
+C:\VBESKO_VS2019\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmATIVA.resources
+C:\VBESKO_VS2019\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmATRET.resources
+C:\VBESKO_VS2019\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmATCOP.resources
+C:\VBESKO_VS2019\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmATGPR.resources
+C:\VBESKO_VS2019\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmATVEN.resources
+C:\VBESKO_VS2019\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmAPDGV.resources
+C:\VBESKO_VS2019\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmAPFRM.resources
+C:\VBESKO_VS2019\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmAPGQLst.resources
+C:\VBESKO_VS2019\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmAPQDG.resources
+C:\VBESKO_VS2019\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmASRES.resources
+C:\VBESKO_VS2019\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmASRES_LeeItm.resources
+C:\VBESKO_VS2019\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmASRES_LeeOdp.resources
+C:\VBESKO_VS2019\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmAPLND1.resources
+C:\VBESKO_VS2019\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmGCBIN.resources
+C:\VBESKO_VS2019\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmGQLst.resources
+C:\VBESKO_VS2019\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmGQLstDet.resources
+C:\VBESKO_VS2019\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmGCSIT.resources
+C:\VBESKO_VS2019\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmAPDOC.resources
+C:\VBESKO_VS2019\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmGCCIP.resources
+C:\VBESKO_VS2019\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmGAPUS.resources
+C:\VBESKO_VS2019\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmATCTR.resources
+C:\VBESKO_VS2019\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmATOPE.resources
+C:\VBESKO_VS2019\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmATPCO.resources
+C:\VBESKO_VS2019\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmAPPRN.resources
+C:\VBESKO_VS2019\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmATALM.resources
+C:\VBESKO_VS2019\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmATBCO.resources
+C:\VBESKO_VS2019\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmATCLI.resources
+C:\VBESKO_VS2019\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmATGRI.resources
+C:\VBESKO_VS2019\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmATAUT.resources
+C:\VBESKO_VS2019\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmATSGI.resources
+C:\VBESKO_VS2019\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmACUNI.resources
+C:\VBESKO_VS2019\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmRIDMI04.resources
+C:\VBESKO_VS2019\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmRIDMI01.resources
+C:\VBESKO_VS2019\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmRIDMI02.resources
+C:\VBESKO_VS2019\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmRIDMI03.resources
+C:\VBESKO_VS2019\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmRIMOV01.resources
+C:\VBESKO_VS2019\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmRIMOV02.resources
+C:\VBESKO_VS2019\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmIRMOV03.resources
+C:\VBESKO_VS2019\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.rptIRMOV03.resources
+C:\VBESKO_VS2019\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.rptRIDMI01.resources
+C:\VBESKO_VS2019\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.rptRIDMI02.resources
+C:\VBESKO_VS2019\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.rptRIDMI03.resources
+C:\VBESKO_VS2019\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.rptRIDMI04.resources
+C:\VBESKO_VS2019\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.rptRIMOV01.resources
+C:\VBESKO_VS2019\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.rptRIMOV02.resources
+C:\VBESKO_VS2019\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmIEENI_LeeENT.resources
+C:\VBESKO_VS2019\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmIEREV.resources
+C:\VBESKO_VS2019\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmIEENI.resources
+C:\VBESKO_VS2019\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmIELSP.resources
+C:\VBESKO_VS2019\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmIESAI.resources
+C:\VBESKO_VS2019\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmIESAI_LeeSAL.resources
+C:\VBESKO_VS2019\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmIETRI.resources
+C:\VBESKO_VS2019\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmILDMI2.resources
+C:\VBESKO_VS2019\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmIEDMI.resources
+C:\VBESKO_VS2019\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmAPEND.resources
+C:\VBESKO_VS2019\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmACPAG.resources
+C:\VBESKO_VS2019\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmACDEM.resources
+C:\VBESKO_VS2019\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmATUSR.resources
+C:\VBESKO_VS2019\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.rptCOOC001.resources
+C:\VBESKO_VS2019\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.rptCOOS001.resources
+C:\VBESKO_VS2019\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.rptCOSC001.resources
+C:\VBESKO_VS2019\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.rptCRENI01.resources
+C:\VBESKO_VS2019\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.rptCRSAI01.resources
+C:\VBESKO_VS2019\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.rptATTIN.resources
+C:\VBESKO_VS2019\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.rptIRENI01.resources
+C:\VBESKO_VS2019\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.rptIRSAI01.resources
+C:\VBESKO_VS2019\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.rptIRTRI01.resources
+C:\VBESKO_VS2019\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.rptIRTRI02.resources
+C:\VBESKO_VS2019\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.rptRIREV01.resources
+C:\VBESKO_VS2019\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.rptPREDM01.resources
+C:\VBESKO_VS2019\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.rptPREDP01.resources
+C:\VBESKO_VS2019\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.rptPRFOM01.resources
+C:\VBESKO_VS2019\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.rptPRLIM01.resources
+C:\VBESKO_VS2019\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.rptPROP001.resources
+C:\VBESKO_VS2019\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.rptPROP0011.resources
+C:\VBESKO_VS2019\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.rptPROP002.resources
+C:\VBESKO_VS2019\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.rptPROP004.resources
+C:\VBESKO_VS2019\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.rptPROP006.resources
+C:\VBESKO_VS2019\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.rptPRROP01.resources
+C:\VBESKO_VS2019\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.rptPRSDP01.resources
+C:\VBESKO_VS2019\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.rptPRSM001.resources
+C:\VBESKO_VS2019\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.rptPROP0012.resources
+C:\VBESKO_VS2019\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.rptVEENI001.resources
+C:\VBESKO_VS2019\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.rptVEOD001.resources
+C:\VBESKO_VS2019\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmPEEDM.resources
+C:\VBESKO_VS2019\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmPEEDP.resources
+C:\VBESKO_VS2019\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmPEFOM.resources
+C:\VBESKO_VS2019\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmPEFOM_LeeFOM.resources
+C:\VBESKO_VS2019\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmPELIM.resources
+C:\VBESKO_VS2019\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmPELIM_LeeLIM.resources
+C:\VBESKO_VS2019\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmPEODP.resources
+C:\VBESKO_VS2019\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmPEODP_SelItm.resources
+C:\VBESKO_VS2019\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmPEODP_SelRpt.resources
+C:\VBESKO_VS2019\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmPERCI.resources
+C:\VBESKO_VS2019\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmActPEROD.resources
+C:\VBESKO_VS2019\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmActPERODAbr.resources
+C:\VBESKO_VS2019\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmActPERODCer.resources
+C:\VBESKO_VS2019\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmPEROD.resources
+C:\VBESKO_VS2019\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmPEROD_Opc.resources
+C:\VBESKO_VS2019\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmPEROD_Sec.resources
+C:\VBESKO_VS2019\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmPEROD_Sec01.resources
+C:\VBESKO_VS2019\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmPEROD_Sec02.resources
+C:\VBESKO_VS2019\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmPEROD_Sec03.resources
+C:\VBESKO_VS2019\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmPEROD_Sec04.resources
+C:\VBESKO_VS2019\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmPEROD_Sec05.resources
+C:\VBESKO_VS2019\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmPEROD_Sec06.resources
+C:\VBESKO_VS2019\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmPEROD_Sec07.resources
+C:\VBESKO_VS2019\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmPEROD_Sec08.resources
+C:\VBESKO_VS2019\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmPEROD_Sec09.resources
+C:\VBESKO_VS2019\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmPEROD_Sec10.resources
+C:\VBESKO_VS2019\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmPEROD_Sec14.resources
+C:\VBESKO_VS2019\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmPEROD_Sec15.resources
+C:\VBESKO_VS2019\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmPEROD_Sec16.resources
+C:\VBESKO_VS2019\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmPEROD_Sec99.resources
+C:\VBESKO_VS2019\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmPEROD_TecNum.resources
+C:\VBESKO_VS2019\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmPESDM.resources
+C:\VBESKO_VS2019\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmPEROP.resources
+C:\VBESKO_VS2019\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.rptPROP003.resources
+C:\VBESKO_VS2019\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmPESDP.resources
+C:\VBESKO_VS2019\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmPQLIM01.resources
+C:\VBESKO_VS2019\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmPQLIM02.resources
+C:\VBESKO_VS2019\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmPQROP01.resources
+C:\VBESKO_VS2019\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmPQROP02.resources
+C:\VBESKO_VS2019\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.rptPQLIM02.resources
+C:\VBESKO_VS2019\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmPRCTE01.resources
+C:\VBESKO_VS2019\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmPRODP05.resources
+C:\VBESKO_VS2019\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmPRODP03.resources
+C:\VBESKO_VS2019\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmPRODP04.resources
+C:\VBESKO_VS2019\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmPRODP01.resources
+C:\VBESKO_VS2019\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmPRODP02.resources
+C:\VBESKO_VS2019\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.rptPRODP02.resources
+C:\VBESKO_VS2019\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.rptPRODP031.resources
+C:\VBESKO_VS2019\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.rptPRODP032.resources
+C:\VBESKO_VS2019\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.rptPRODP04.resources
+C:\VBESKO_VS2019\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.rptRPROP01.resources
+C:\VBESKO_VS2019\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.rptPRRP001.resources
+C:\VBESKO_VS2019\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.rptPRRP002.resources
+C:\VBESKO_VS2019\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.rptPRRP003.resources
+C:\VBESKO_VS2019\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.rptPRRP004.resources
+C:\VBESKO_VS2019\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.rptPRODP05.resources
+C:\VBESKO_VS2019\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmPRROD01.resources
+C:\VBESKO_VS2019\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.rptPRROD011.resources
+C:\VBESKO_VS2019\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.rptPRROD012.resources
+C:\VBESKO_VS2019\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmTEDMT.resources
+C:\VBESKO_VS2019\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.mdiPpal.resources
+C:\VBESKO_VS2019\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmGMnuPpal.resources
+C:\VBESKO_VS2019\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmGLogin.resources
+C:\VBESKO_VS2019\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.Resources.resources
+C:\VBESKO_VS2019\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmTEGRC.resources
+C:\VBESKO_VS2019\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmTEGRP.resources
+C:\VBESKO_VS2019\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmVEENI.resources
+C:\VBESKO_VS2019\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmVEFAC.resources
+C:\VBESKO_VS2019\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmVENOC.resources
+C:\VBESKO_VS2019\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmVENOD.resources
+C:\VBESKO_VS2019\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmVEPED.resources
+C:\VBESKO_VS2019\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmVESAI.resources
+C:\VBESKO_VS2019\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.vbproj.GenerateResource.cache
+C:\VBESKO_VS2019\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.vbproj.CoreCompileInputs.cache
+C:\VBESKO_VS2019\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.TrustInfo.xml
+C:\VBESKO_VS2019\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.exe.manifest
+C:\VBESKO_VS2019\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.application
+C:\VBESKO_VS2019\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.vbproj.CopyComplete
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\Siles.exe.config
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\Siles.exe.manifest
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\Siles.application
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\Siles.exe
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\Siles.pdb
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\Siles.xml
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\Ben.Demystifier.dll
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\ClaseConexion.dll
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\ClaseDatos.dll
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\ClaseNegocios.dll
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\Microsoft.Azure.DevOps.Comments.WebApi.dll
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\Microsoft.IdentityModel.Logging.dll
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\Microsoft.TeamFoundation.Build.Client.dll
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\Microsoft.TeamFoundation.Build.Common.dll
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\Microsoft.TeamFoundation.Build2.WebApi.dll
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\Microsoft.TeamFoundation.Client.dll
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\Microsoft.TeamFoundation.Common.dll
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\Microsoft.TeamFoundation.Core.WebApi.dll
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\Microsoft.TeamFoundation.Dashboards.WebApi.dll
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\Microsoft.TeamFoundation.DeleteTeamProject.dll
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\Microsoft.TeamFoundation.Diff.dll
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\Microsoft.TeamFoundation.Discussion.Client.dll
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\Microsoft.TeamFoundation.DistributedTask.Common.Contracts.dll
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\Microsoft.TeamFoundation.Git.Client.dll
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\Microsoft.TeamFoundation.Lab.Client.dll
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\Microsoft.TeamFoundation.Lab.Common.dll
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\Microsoft.TeamFoundation.Lab.TestIntegration.Client.dll
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\Microsoft.TeamFoundation.Lab.WorkflowIntegration.Client.dll
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\Microsoft.TeamFoundation.Policy.WebApi.dll
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\Microsoft.TeamFoundation.ProjectManagement.dll
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\Microsoft.TeamFoundation.SharePointReporting.Integration.dll
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\Microsoft.TeamFoundation.SourceControl.WebApi.dll
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\Microsoft.TeamFoundation.Test.WebApi.dll
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\Microsoft.TeamFoundation.TestImpact.Client.dll
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\Microsoft.TeamFoundation.TestManagement.Client.dll
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\Microsoft.TeamFoundation.TestManagement.Common.dll
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\Microsoft.TeamFoundation.TestManagement.WebApi.dll
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\Microsoft.TeamFoundation.VersionControl.Client.dll
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\Microsoft.TeamFoundation.VersionControl.Common.dll
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\Microsoft.TeamFoundation.VersionControl.Common.Integration.dll
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\Microsoft.TeamFoundation.Wiki.WebApi.dll
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\Microsoft.TeamFoundation.Work.WebApi.dll
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\Microsoft.TeamFoundation.WorkItemTracking.Client.DataStoreLoader.dll
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\Microsoft.TeamFoundation.WorkItemTracking.Client.dll
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\Microsoft.TeamFoundation.WorkItemTracking.Client.QueryLanguage.dll
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\Microsoft.TeamFoundation.WorkItemTracking.Common.dll
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\Microsoft.TeamFoundation.WorkItemTracking.Process.WebApi.dll
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\Microsoft.TeamFoundation.WorkItemTracking.Proxy.dll
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\Microsoft.TeamFoundation.WorkItemTracking.WebApi.dll
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.dll
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\Microsoft.VisualStudio.Services.Client.Interactive.dll
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\Microsoft.VisualStudio.Services.Common.dll
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\Microsoft.VisualStudio.Services.TestManagement.TestPlanning.WebApi.dll
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\Microsoft.VisualStudio.Services.TestResults.WebApi.dll
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\Microsoft.VisualStudio.Services.WebApi.dll
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\Newtonsoft.Json.dll
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\System.Collections.Immutable.dll
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\System.Net.Http.Formatting.dll
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\System.Reflection.Metadata.dll
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\System.Web.Http.dll
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\System.Web.Http.WebHost.dll
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\EnvDTE.dll
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\stdole.dll
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\ClaseConexion.pdb
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\ClaseConexion.xml
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\ClaseConexion.dll.config
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\ClaseDatos.pdb
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\ClaseDatos.xml
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\ClaseDatos.dll.config
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\ClaseNegocios.pdb
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\ClaseNegocios.xml
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\ClaseNegocios.dll.config
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\Microsoft.Azure.DevOps.Comments.WebApi.xml
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.pdb
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.xml
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\Microsoft.IdentityModel.Logging.xml
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\Microsoft.TeamFoundation.Build.Client.xml
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\Microsoft.TeamFoundation.Build.Common.xml
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\Microsoft.TeamFoundation.Build2.WebApi.xml
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\Microsoft.TeamFoundation.Client.xml
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\Microsoft.TeamFoundation.Common.xml
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\Microsoft.TeamFoundation.Core.WebApi.xml
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\Microsoft.TeamFoundation.Dashboards.WebApi.xml
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\Microsoft.TeamFoundation.DeleteTeamProject.xml
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\Microsoft.TeamFoundation.Diff.xml
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\Microsoft.TeamFoundation.Discussion.Client.xml
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\Microsoft.TeamFoundation.DistributedTask.Common.Contracts.xml
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\Microsoft.TeamFoundation.Git.Client.xml
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\Microsoft.TeamFoundation.Lab.Client.xml
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\Microsoft.TeamFoundation.Lab.Common.xml
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\Microsoft.TeamFoundation.Lab.TestIntegration.Client.xml
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\Microsoft.TeamFoundation.Lab.WorkflowIntegration.Client.xml
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\Microsoft.TeamFoundation.Policy.WebApi.xml
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\Microsoft.TeamFoundation.ProjectManagement.xml
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\Microsoft.TeamFoundation.SharePointReporting.Integration.xml
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\Microsoft.TeamFoundation.SourceControl.WebApi.xml
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\Microsoft.TeamFoundation.Test.WebApi.xml
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\Microsoft.TeamFoundation.TestImpact.Client.xml
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\Microsoft.TeamFoundation.TestManagement.Client.xml
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\Microsoft.TeamFoundation.TestManagement.Common.xml
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\Microsoft.TeamFoundation.TestManagement.WebApi.xml
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\Microsoft.TeamFoundation.VersionControl.Client.xml
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\Microsoft.TeamFoundation.VersionControl.Common.xml
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\Microsoft.TeamFoundation.VersionControl.Common.Integration.xml
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\Microsoft.TeamFoundation.Wiki.WebApi.xml
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\Microsoft.TeamFoundation.Work.WebApi.xml
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\Microsoft.TeamFoundation.WorkItemTracking.Client.xml
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\Microsoft.TeamFoundation.WorkItemTracking.Client.DataStoreLoader.xml
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\Microsoft.TeamFoundation.WorkItemTracking.Client.QueryLanguage.xml
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\Microsoft.TeamFoundation.WorkItemTracking.Common.xml
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\Microsoft.TeamFoundation.WorkItemTracking.Process.WebApi.xml
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\Microsoft.TeamFoundation.WorkItemTracking.Proxy.xml
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\Microsoft.TeamFoundation.WorkItemTracking.WebApi.xml
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\Microsoft.VisualStudio.Services.Client.Interactive.xml
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\Microsoft.VisualStudio.Services.Common.xml
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\Microsoft.VisualStudio.Services.TestManagement.TestPlanning.WebApi.xml
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\Microsoft.VisualStudio.Services.TestResults.WebApi.xml
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\Microsoft.VisualStudio.Services.WebApi.xml
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\Newtonsoft.Json.xml
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\System.Collections.Immutable.xml
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\System.Net.Http.Formatting.xml
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\System.Reflection.Metadata.xml
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\System.Web.Http.xml
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\System.Web.Http.WebHost.xml
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\EnvDTE.xml
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\cs\Microsoft.TeamFoundation.Build.Client.resources.dll
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\de\Microsoft.TeamFoundation.Build.Client.resources.dll
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\es\Microsoft.TeamFoundation.Build.Client.resources.dll
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\fr\Microsoft.TeamFoundation.Build.Client.resources.dll
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\it\Microsoft.TeamFoundation.Build.Client.resources.dll
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\ja\Microsoft.TeamFoundation.Build.Client.resources.dll
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\ko\Microsoft.TeamFoundation.Build.Client.resources.dll
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\pl\Microsoft.TeamFoundation.Build.Client.resources.dll
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\pt-BR\Microsoft.TeamFoundation.Build.Client.resources.dll
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\ru\Microsoft.TeamFoundation.Build.Client.resources.dll
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\tr\Microsoft.TeamFoundation.Build.Client.resources.dll
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\zh-Hans\Microsoft.TeamFoundation.Build.Client.resources.dll
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\zh-Hant\Microsoft.TeamFoundation.Build.Client.resources.dll
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\cs\Microsoft.TeamFoundation.Build.Common.resources.dll
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\de\Microsoft.TeamFoundation.Build.Common.resources.dll
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\es\Microsoft.TeamFoundation.Build.Common.resources.dll
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\fr\Microsoft.TeamFoundation.Build.Common.resources.dll
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\it\Microsoft.TeamFoundation.Build.Common.resources.dll
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\ja\Microsoft.TeamFoundation.Build.Common.resources.dll
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\ko\Microsoft.TeamFoundation.Build.Common.resources.dll
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\pl\Microsoft.TeamFoundation.Build.Common.resources.dll
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\pt-BR\Microsoft.TeamFoundation.Build.Common.resources.dll
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\ru\Microsoft.TeamFoundation.Build.Common.resources.dll
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\tr\Microsoft.TeamFoundation.Build.Common.resources.dll
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\zh-Hans\Microsoft.TeamFoundation.Build.Common.resources.dll
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\zh-Hant\Microsoft.TeamFoundation.Build.Common.resources.dll
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\cs\Microsoft.TeamFoundation.Client.resources.dll
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\de\Microsoft.TeamFoundation.Client.resources.dll
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\es\Microsoft.TeamFoundation.Client.resources.dll
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\fr\Microsoft.TeamFoundation.Client.resources.dll
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\it\Microsoft.TeamFoundation.Client.resources.dll
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\ja\Microsoft.TeamFoundation.Client.resources.dll
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\ko\Microsoft.TeamFoundation.Client.resources.dll
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\pl\Microsoft.TeamFoundation.Client.resources.dll
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\pt-BR\Microsoft.TeamFoundation.Client.resources.dll
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\ru\Microsoft.TeamFoundation.Client.resources.dll
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\tr\Microsoft.TeamFoundation.Client.resources.dll
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\zh-Hans\Microsoft.TeamFoundation.Client.resources.dll
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\zh-Hant\Microsoft.TeamFoundation.Client.resources.dll
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\cs\Microsoft.TeamFoundation.Common.resources.dll
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\de\Microsoft.TeamFoundation.Common.resources.dll
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\es\Microsoft.TeamFoundation.Common.resources.dll
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\fr\Microsoft.TeamFoundation.Common.resources.dll
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\it\Microsoft.TeamFoundation.Common.resources.dll
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\ja\Microsoft.TeamFoundation.Common.resources.dll
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\ko\Microsoft.TeamFoundation.Common.resources.dll
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\pl\Microsoft.TeamFoundation.Common.resources.dll
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\pt-BR\Microsoft.TeamFoundation.Common.resources.dll
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\ru\Microsoft.TeamFoundation.Common.resources.dll
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\tr\Microsoft.TeamFoundation.Common.resources.dll
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\zh-Hans\Microsoft.TeamFoundation.Common.resources.dll
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\zh-Hant\Microsoft.TeamFoundation.Common.resources.dll
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\cs\Microsoft.TeamFoundation.Core.WebApi.resources.dll
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\de\Microsoft.TeamFoundation.Core.WebApi.resources.dll
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\es\Microsoft.TeamFoundation.Core.WebApi.resources.dll
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\fr\Microsoft.TeamFoundation.Core.WebApi.resources.dll
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\it\Microsoft.TeamFoundation.Core.WebApi.resources.dll
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\ja\Microsoft.TeamFoundation.Core.WebApi.resources.dll
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\ko\Microsoft.TeamFoundation.Core.WebApi.resources.dll
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\pl\Microsoft.TeamFoundation.Core.WebApi.resources.dll
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\pt-BR\Microsoft.TeamFoundation.Core.WebApi.resources.dll
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\ru\Microsoft.TeamFoundation.Core.WebApi.resources.dll
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\tr\Microsoft.TeamFoundation.Core.WebApi.resources.dll
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\zh-Hans\Microsoft.TeamFoundation.Core.WebApi.resources.dll
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\zh-Hant\Microsoft.TeamFoundation.Core.WebApi.resources.dll
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\de\Microsoft.TeamFoundation.Dashboards.WebApi.resources.dll
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\es\Microsoft.TeamFoundation.Dashboards.WebApi.resources.dll
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\fr\Microsoft.TeamFoundation.Dashboards.WebApi.resources.dll
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\it\Microsoft.TeamFoundation.Dashboards.WebApi.resources.dll
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\ja\Microsoft.TeamFoundation.Dashboards.WebApi.resources.dll
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\ko\Microsoft.TeamFoundation.Dashboards.WebApi.resources.dll
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\ru\Microsoft.TeamFoundation.Dashboards.WebApi.resources.dll
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\tr\Microsoft.TeamFoundation.Dashboards.WebApi.resources.dll
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\zh-Hans\Microsoft.TeamFoundation.Dashboards.WebApi.resources.dll
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\zh-Hant\Microsoft.TeamFoundation.Dashboards.WebApi.resources.dll
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\cs\Microsoft.TeamFoundation.Discussion.Client.resources.dll
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\de\Microsoft.TeamFoundation.Discussion.Client.resources.dll
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\es\Microsoft.TeamFoundation.Discussion.Client.resources.dll
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\fr\Microsoft.TeamFoundation.Discussion.Client.resources.dll
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\it\Microsoft.TeamFoundation.Discussion.Client.resources.dll
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\ja\Microsoft.TeamFoundation.Discussion.Client.resources.dll
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\ko\Microsoft.TeamFoundation.Discussion.Client.resources.dll
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\pl\Microsoft.TeamFoundation.Discussion.Client.resources.dll
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\pt-BR\Microsoft.TeamFoundation.Discussion.Client.resources.dll
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\ru\Microsoft.TeamFoundation.Discussion.Client.resources.dll
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\tr\Microsoft.TeamFoundation.Discussion.Client.resources.dll
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\zh-Hans\Microsoft.TeamFoundation.Discussion.Client.resources.dll
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\zh-Hant\Microsoft.TeamFoundation.Discussion.Client.resources.dll
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\cs\Microsoft.TeamFoundation.Lab.Client.resources.dll
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\de\Microsoft.TeamFoundation.Lab.Client.resources.dll
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\es\Microsoft.TeamFoundation.Lab.Client.resources.dll
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\fr\Microsoft.TeamFoundation.Lab.Client.resources.dll
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\it\Microsoft.TeamFoundation.Lab.Client.resources.dll
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\ja\Microsoft.TeamFoundation.Lab.Client.resources.dll
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\ko\Microsoft.TeamFoundation.Lab.Client.resources.dll
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\pl\Microsoft.TeamFoundation.Lab.Client.resources.dll
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\pt-BR\Microsoft.TeamFoundation.Lab.Client.resources.dll
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\ru\Microsoft.TeamFoundation.Lab.Client.resources.dll
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\tr\Microsoft.TeamFoundation.Lab.Client.resources.dll
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\zh-Hans\Microsoft.TeamFoundation.Lab.Client.resources.dll
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\zh-Hant\Microsoft.TeamFoundation.Lab.Client.resources.dll
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\cs\Microsoft.TeamFoundation.Lab.Common.resources.dll
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\de\Microsoft.TeamFoundation.Lab.Common.resources.dll
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\es\Microsoft.TeamFoundation.Lab.Common.resources.dll
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\fr\Microsoft.TeamFoundation.Lab.Common.resources.dll
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\it\Microsoft.TeamFoundation.Lab.Common.resources.dll
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\ja\Microsoft.TeamFoundation.Lab.Common.resources.dll
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\ko\Microsoft.TeamFoundation.Lab.Common.resources.dll
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\pl\Microsoft.TeamFoundation.Lab.Common.resources.dll
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\pt-BR\Microsoft.TeamFoundation.Lab.Common.resources.dll
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\ru\Microsoft.TeamFoundation.Lab.Common.resources.dll
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\tr\Microsoft.TeamFoundation.Lab.Common.resources.dll
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\zh-Hans\Microsoft.TeamFoundation.Lab.Common.resources.dll
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\zh-Hant\Microsoft.TeamFoundation.Lab.Common.resources.dll
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\cs\Microsoft.TeamFoundation.Lab.TestIntegration.Client.resources.dll
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\de\Microsoft.TeamFoundation.Lab.TestIntegration.Client.resources.dll
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\es\Microsoft.TeamFoundation.Lab.TestIntegration.Client.resources.dll
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\fr\Microsoft.TeamFoundation.Lab.TestIntegration.Client.resources.dll
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\it\Microsoft.TeamFoundation.Lab.TestIntegration.Client.resources.dll
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\ja\Microsoft.TeamFoundation.Lab.TestIntegration.Client.resources.dll
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\ko\Microsoft.TeamFoundation.Lab.TestIntegration.Client.resources.dll
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\pl\Microsoft.TeamFoundation.Lab.TestIntegration.Client.resources.dll
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\pt-BR\Microsoft.TeamFoundation.Lab.TestIntegration.Client.resources.dll
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\ru\Microsoft.TeamFoundation.Lab.TestIntegration.Client.resources.dll
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\tr\Microsoft.TeamFoundation.Lab.TestIntegration.Client.resources.dll
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\zh-Hans\Microsoft.TeamFoundation.Lab.TestIntegration.Client.resources.dll
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\zh-Hant\Microsoft.TeamFoundation.Lab.TestIntegration.Client.resources.dll
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\cs\Microsoft.TeamFoundation.Lab.WorkflowIntegration.Client.resources.dll
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\de\Microsoft.TeamFoundation.Lab.WorkflowIntegration.Client.resources.dll
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\es\Microsoft.TeamFoundation.Lab.WorkflowIntegration.Client.resources.dll
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\fr\Microsoft.TeamFoundation.Lab.WorkflowIntegration.Client.resources.dll
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\it\Microsoft.TeamFoundation.Lab.WorkflowIntegration.Client.resources.dll
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\ja\Microsoft.TeamFoundation.Lab.WorkflowIntegration.Client.resources.dll
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\ko\Microsoft.TeamFoundation.Lab.WorkflowIntegration.Client.resources.dll
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\pl\Microsoft.TeamFoundation.Lab.WorkflowIntegration.Client.resources.dll
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\pt-BR\Microsoft.TeamFoundation.Lab.WorkflowIntegration.Client.resources.dll
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\ru\Microsoft.TeamFoundation.Lab.WorkflowIntegration.Client.resources.dll
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\tr\Microsoft.TeamFoundation.Lab.WorkflowIntegration.Client.resources.dll
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\zh-Hans\Microsoft.TeamFoundation.Lab.WorkflowIntegration.Client.resources.dll
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\zh-Hant\Microsoft.TeamFoundation.Lab.WorkflowIntegration.Client.resources.dll
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\cs\Microsoft.TeamFoundation.SharePointReporting.Integration.resources.dll
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\de\Microsoft.TeamFoundation.SharePointReporting.Integration.resources.dll
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\es\Microsoft.TeamFoundation.SharePointReporting.Integration.resources.dll
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\fr\Microsoft.TeamFoundation.SharePointReporting.Integration.resources.dll
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\it\Microsoft.TeamFoundation.SharePointReporting.Integration.resources.dll
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\ja\Microsoft.TeamFoundation.SharePointReporting.Integration.resources.dll
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\ko\Microsoft.TeamFoundation.SharePointReporting.Integration.resources.dll
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\pl\Microsoft.TeamFoundation.SharePointReporting.Integration.resources.dll
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\pt-BR\Microsoft.TeamFoundation.SharePointReporting.Integration.resources.dll
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\ru\Microsoft.TeamFoundation.SharePointReporting.Integration.resources.dll
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\tr\Microsoft.TeamFoundation.SharePointReporting.Integration.resources.dll
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\zh-Hans\Microsoft.TeamFoundation.SharePointReporting.Integration.resources.dll
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\zh-Hant\Microsoft.TeamFoundation.SharePointReporting.Integration.resources.dll
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\cs\Microsoft.TeamFoundation.TestImpact.Client.resources.dll
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\de\Microsoft.TeamFoundation.TestImpact.Client.resources.dll
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\es\Microsoft.TeamFoundation.TestImpact.Client.resources.dll
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\fr\Microsoft.TeamFoundation.TestImpact.Client.resources.dll
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\it\Microsoft.TeamFoundation.TestImpact.Client.resources.dll
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\ja\Microsoft.TeamFoundation.TestImpact.Client.resources.dll
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\ko\Microsoft.TeamFoundation.TestImpact.Client.resources.dll
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\pl\Microsoft.TeamFoundation.TestImpact.Client.resources.dll
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\pt-BR\Microsoft.TeamFoundation.TestImpact.Client.resources.dll
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\ru\Microsoft.TeamFoundation.TestImpact.Client.resources.dll
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\tr\Microsoft.TeamFoundation.TestImpact.Client.resources.dll
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\zh-Hans\Microsoft.TeamFoundation.TestImpact.Client.resources.dll
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\zh-Hant\Microsoft.TeamFoundation.TestImpact.Client.resources.dll
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\cs\Microsoft.TeamFoundation.TestManagement.Client.resources.dll
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\de\Microsoft.TeamFoundation.TestManagement.Client.resources.dll
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\es\Microsoft.TeamFoundation.TestManagement.Client.resources.dll
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\fr\Microsoft.TeamFoundation.TestManagement.Client.resources.dll
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\it\Microsoft.TeamFoundation.TestManagement.Client.resources.dll
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\ja\Microsoft.TeamFoundation.TestManagement.Client.resources.dll
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\ko\Microsoft.TeamFoundation.TestManagement.Client.resources.dll
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\pl\Microsoft.TeamFoundation.TestManagement.Client.resources.dll
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\pt-BR\Microsoft.TeamFoundation.TestManagement.Client.resources.dll
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\ru\Microsoft.TeamFoundation.TestManagement.Client.resources.dll
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\tr\Microsoft.TeamFoundation.TestManagement.Client.resources.dll
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\zh-Hans\Microsoft.TeamFoundation.TestManagement.Client.resources.dll
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\zh-Hant\Microsoft.TeamFoundation.TestManagement.Client.resources.dll
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\cs\Microsoft.TeamFoundation.VersionControl.Common.resources.dll
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\de\Microsoft.TeamFoundation.VersionControl.Common.resources.dll
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\es\Microsoft.TeamFoundation.VersionControl.Common.resources.dll
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\fr\Microsoft.TeamFoundation.VersionControl.Common.resources.dll
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\it\Microsoft.TeamFoundation.VersionControl.Common.resources.dll
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\ja\Microsoft.TeamFoundation.VersionControl.Common.resources.dll
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\ko\Microsoft.TeamFoundation.VersionControl.Common.resources.dll
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\pl\Microsoft.TeamFoundation.VersionControl.Common.resources.dll
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\pt-BR\Microsoft.TeamFoundation.VersionControl.Common.resources.dll
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\ru\Microsoft.TeamFoundation.VersionControl.Common.resources.dll
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\tr\Microsoft.TeamFoundation.VersionControl.Common.resources.dll
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\zh-Hans\Microsoft.TeamFoundation.VersionControl.Common.resources.dll
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\zh-Hant\Microsoft.TeamFoundation.VersionControl.Common.resources.dll
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\cs\Microsoft.TeamFoundation.VersionControl.Common.Integration.resources.dll
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\de\Microsoft.TeamFoundation.VersionControl.Common.Integration.resources.dll
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\es\Microsoft.TeamFoundation.VersionControl.Common.Integration.resources.dll
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\fr\Microsoft.TeamFoundation.VersionControl.Common.Integration.resources.dll
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\it\Microsoft.TeamFoundation.VersionControl.Common.Integration.resources.dll
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\ja\Microsoft.TeamFoundation.VersionControl.Common.Integration.resources.dll
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\ko\Microsoft.TeamFoundation.VersionControl.Common.Integration.resources.dll
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\pl\Microsoft.TeamFoundation.VersionControl.Common.Integration.resources.dll
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\pt-BR\Microsoft.TeamFoundation.VersionControl.Common.Integration.resources.dll
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\ru\Microsoft.TeamFoundation.VersionControl.Common.Integration.resources.dll
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\tr\Microsoft.TeamFoundation.VersionControl.Common.Integration.resources.dll
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\zh-Hans\Microsoft.TeamFoundation.VersionControl.Common.Integration.resources.dll
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\zh-Hant\Microsoft.TeamFoundation.VersionControl.Common.Integration.resources.dll
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\cs\Microsoft.TeamFoundation.WorkItemTracking.Client.resources.dll
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\de\Microsoft.TeamFoundation.WorkItemTracking.Client.resources.dll
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\es\Microsoft.TeamFoundation.WorkItemTracking.Client.resources.dll
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\fr\Microsoft.TeamFoundation.WorkItemTracking.Client.resources.dll
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\it\Microsoft.TeamFoundation.WorkItemTracking.Client.resources.dll
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\ja\Microsoft.TeamFoundation.WorkItemTracking.Client.resources.dll
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\ko\Microsoft.TeamFoundation.WorkItemTracking.Client.resources.dll
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\pl\Microsoft.TeamFoundation.WorkItemTracking.Client.resources.dll
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\pt-BR\Microsoft.TeamFoundation.WorkItemTracking.Client.resources.dll
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\ru\Microsoft.TeamFoundation.WorkItemTracking.Client.resources.dll
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\tr\Microsoft.TeamFoundation.WorkItemTracking.Client.resources.dll
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\zh-Hans\Microsoft.TeamFoundation.WorkItemTracking.Client.resources.dll
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\zh-Hant\Microsoft.TeamFoundation.WorkItemTracking.Client.resources.dll
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\cs\Microsoft.TeamFoundation.WorkItemTracking.Client.QueryLanguage.resources.dll
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\de\Microsoft.TeamFoundation.WorkItemTracking.Client.QueryLanguage.resources.dll
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\es\Microsoft.TeamFoundation.WorkItemTracking.Client.QueryLanguage.resources.dll
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\fr\Microsoft.TeamFoundation.WorkItemTracking.Client.QueryLanguage.resources.dll
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\it\Microsoft.TeamFoundation.WorkItemTracking.Client.QueryLanguage.resources.dll
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\ja\Microsoft.TeamFoundation.WorkItemTracking.Client.QueryLanguage.resources.dll
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\ko\Microsoft.TeamFoundation.WorkItemTracking.Client.QueryLanguage.resources.dll
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\pl\Microsoft.TeamFoundation.WorkItemTracking.Client.QueryLanguage.resources.dll
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\pt-BR\Microsoft.TeamFoundation.WorkItemTracking.Client.QueryLanguage.resources.dll
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\ru\Microsoft.TeamFoundation.WorkItemTracking.Client.QueryLanguage.resources.dll
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\tr\Microsoft.TeamFoundation.WorkItemTracking.Client.QueryLanguage.resources.dll
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\zh-Hans\Microsoft.TeamFoundation.WorkItemTracking.Client.QueryLanguage.resources.dll
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\zh-Hant\Microsoft.TeamFoundation.WorkItemTracking.Client.QueryLanguage.resources.dll
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\cs\Microsoft.TeamFoundation.WorkItemTracking.Common.resources.dll
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\de\Microsoft.TeamFoundation.WorkItemTracking.Common.resources.dll
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\es\Microsoft.TeamFoundation.WorkItemTracking.Common.resources.dll
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\fr\Microsoft.TeamFoundation.WorkItemTracking.Common.resources.dll
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\it\Microsoft.TeamFoundation.WorkItemTracking.Common.resources.dll
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\ja\Microsoft.TeamFoundation.WorkItemTracking.Common.resources.dll
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\ko\Microsoft.TeamFoundation.WorkItemTracking.Common.resources.dll
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\pl\Microsoft.TeamFoundation.WorkItemTracking.Common.resources.dll
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\pt-BR\Microsoft.TeamFoundation.WorkItemTracking.Common.resources.dll
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\ru\Microsoft.TeamFoundation.WorkItemTracking.Common.resources.dll
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\tr\Microsoft.TeamFoundation.WorkItemTracking.Common.resources.dll
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\zh-Hans\Microsoft.TeamFoundation.WorkItemTracking.Common.resources.dll
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\zh-Hant\Microsoft.TeamFoundation.WorkItemTracking.Common.resources.dll
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\cs\Microsoft.TeamFoundation.WorkItemTracking.Proxy.resources.dll
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\de\Microsoft.TeamFoundation.WorkItemTracking.Proxy.resources.dll
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\es\Microsoft.TeamFoundation.WorkItemTracking.Proxy.resources.dll
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\fr\Microsoft.TeamFoundation.WorkItemTracking.Proxy.resources.dll
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\it\Microsoft.TeamFoundation.WorkItemTracking.Proxy.resources.dll
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\ja\Microsoft.TeamFoundation.WorkItemTracking.Proxy.resources.dll
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\ko\Microsoft.TeamFoundation.WorkItemTracking.Proxy.resources.dll
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\pl\Microsoft.TeamFoundation.WorkItemTracking.Proxy.resources.dll
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\pt-BR\Microsoft.TeamFoundation.WorkItemTracking.Proxy.resources.dll
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\ru\Microsoft.TeamFoundation.WorkItemTracking.Proxy.resources.dll
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\tr\Microsoft.TeamFoundation.WorkItemTracking.Proxy.resources.dll
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\zh-Hans\Microsoft.TeamFoundation.WorkItemTracking.Proxy.resources.dll
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\zh-Hant\Microsoft.TeamFoundation.WorkItemTracking.Proxy.resources.dll
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\cs\Microsoft.VisualStudio.Services.Client.Interactive.resources.dll
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\de\Microsoft.VisualStudio.Services.Client.Interactive.resources.dll
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\es\Microsoft.VisualStudio.Services.Client.Interactive.resources.dll
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\fr\Microsoft.VisualStudio.Services.Client.Interactive.resources.dll
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\it\Microsoft.VisualStudio.Services.Client.Interactive.resources.dll
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\ja\Microsoft.VisualStudio.Services.Client.Interactive.resources.dll
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\ko\Microsoft.VisualStudio.Services.Client.Interactive.resources.dll
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\pl\Microsoft.VisualStudio.Services.Client.Interactive.resources.dll
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\pt-BR\Microsoft.VisualStudio.Services.Client.Interactive.resources.dll
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\ru\Microsoft.VisualStudio.Services.Client.Interactive.resources.dll
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\tr\Microsoft.VisualStudio.Services.Client.Interactive.resources.dll
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\zh-Hans\Microsoft.VisualStudio.Services.Client.Interactive.resources.dll
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\zh-Hant\Microsoft.VisualStudio.Services.Client.Interactive.resources.dll
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\cs\Microsoft.VisualStudio.Services.Common.resources.dll
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\de\Microsoft.VisualStudio.Services.Common.resources.dll
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\es\Microsoft.VisualStudio.Services.Common.resources.dll
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\fr\Microsoft.VisualStudio.Services.Common.resources.dll
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\it\Microsoft.VisualStudio.Services.Common.resources.dll
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\ja\Microsoft.VisualStudio.Services.Common.resources.dll
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\ko\Microsoft.VisualStudio.Services.Common.resources.dll
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\pl\Microsoft.VisualStudio.Services.Common.resources.dll
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\pt-BR\Microsoft.VisualStudio.Services.Common.resources.dll
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\ru\Microsoft.VisualStudio.Services.Common.resources.dll
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\tr\Microsoft.VisualStudio.Services.Common.resources.dll
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\zh-Hans\Microsoft.VisualStudio.Services.Common.resources.dll
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\zh-Hant\Microsoft.VisualStudio.Services.Common.resources.dll
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\cs\Microsoft.VisualStudio.Services.WebApi.resources.dll
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\de\Microsoft.VisualStudio.Services.WebApi.resources.dll
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\es\Microsoft.VisualStudio.Services.WebApi.resources.dll
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\fr\Microsoft.VisualStudio.Services.WebApi.resources.dll
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\it\Microsoft.VisualStudio.Services.WebApi.resources.dll
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\ja\Microsoft.VisualStudio.Services.WebApi.resources.dll
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\ko\Microsoft.VisualStudio.Services.WebApi.resources.dll
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\pl\Microsoft.VisualStudio.Services.WebApi.resources.dll
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\pt-BR\Microsoft.VisualStudio.Services.WebApi.resources.dll
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\ru\Microsoft.VisualStudio.Services.WebApi.resources.dll
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\tr\Microsoft.VisualStudio.Services.WebApi.resources.dll
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\zh-Hans\Microsoft.VisualStudio.Services.WebApi.resources.dll
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\zh-Hant\Microsoft.VisualStudio.Services.WebApi.resources.dll
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.vbproj.AssemblyReference.cache
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.vbproj.SuggestedBindingRedirects.cache
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.vbproj.ResolveComReference.cache
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmCRODC01.resources
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.rptCRODC01.resources
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmGQGEMOV.resources
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmAcerca.resources
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmBEDEP.resources
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmBEPAE.resources
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmBEPAR.resources
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmCEENI.resources
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmCEFAP.resources
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmCENOC.resources
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmCENOD.resources
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmCEODC.resources
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmCESAI.resources
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmATCCO.resources
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmFEACO.resources
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmFTPUC.resources
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmFECOP.resources
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmCR001.resources
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmCR002.resources
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmATCTC.resources
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmATPAC.resources
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmATCIU.resources
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmATZON.resources
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmATAUTLst.resources
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmATTIN.resources
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmABEOC.resources
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmATANA.resources
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmATPOP.resources
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmATPRE.resources
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmATCIF.resources
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmATTIA.resources
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmATGCL.resources
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmATIVA.resources
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmATRET.resources
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmATCOP.resources
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmATGPR.resources
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmATVEN.resources
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmAPDGV.resources
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmAPFRM.resources
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmAPGQLst.resources
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmAPQDG.resources
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmASRES.resources
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmASRES_LeeItm.resources
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmASRES_LeeOdp.resources
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmAPLND1.resources
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmGCBIN.resources
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmGQLst.resources
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmGQLstDet.resources
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmGCSIT.resources
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmAPDOC.resources
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmGCCIP.resources
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmGAPUS.resources
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmATCTR.resources
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmATOPE.resources
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmATPCO.resources
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmAPPRN.resources
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmATALM.resources
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmATCLI.resources
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmATGRI.resources
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmATAUT.resources
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmATSGI.resources
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmACUNI.resources
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmRIDMI04.resources
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmRIDMI01.resources
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmRIDMI02.resources
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmRIDMI03.resources
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmRIMOV01.resources
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmRIMOV02.resources
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmIRMOV03.resources
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.rptIRMOV03.resources
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.rptRIDMI01.resources
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.rptRIDMI02.resources
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.rptRIDMI03.resources
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.rptRIDMI04.resources
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.rptRIMOV01.resources
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.rptRIMOV02.resources
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmIEENI_LeeENT.resources
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmIEREV.resources
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmIEENI.resources
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmIELSP.resources
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmIESAI.resources
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmIESAI_LeeSAL.resources
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmIETRI.resources
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmILDMI2.resources
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmIEDMI.resources
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmAPEND.resources
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmACPAG.resources
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmACDEM.resources
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmATUSR.resources
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.rptCOOC001.resources
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.rptCOOS001.resources
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.rptCOSC001.resources
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.rptCRENI01.resources
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.rptCRSAI01.resources
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.rptATTIN.resources
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.rptIRENI01.resources
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.rptIRSAI01.resources
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.rptIRTRI01.resources
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.rptIRTRI02.resources
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.rptRIREV01.resources
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.rptPREDM01.resources
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.rptPREDP01.resources
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.rptPRFOM01.resources
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.rptPRLIM01.resources
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.rptPROP001.resources
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.rptPROP0011.resources
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.rptPROP002.resources
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.rptPROP004.resources
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.rptPROP006.resources
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.rptPRROP01.resources
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.rptPRSDP01.resources
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.rptPRSM001.resources
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.rptPROP0012.resources
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.rptVEENI001.resources
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.rptVEOD001.resources
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmPEEDM.resources
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmPEEDP.resources
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmPEFOM.resources
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmPEFOM_LeeFOM.resources
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmPELIM.resources
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmPELIM_LeeLIM.resources
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmPEODP.resources
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmPEODP_SelItm.resources
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmPEODP_SelRpt.resources
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmPERCI.resources
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmActPEROD.resources
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmActPERODAbr.resources
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmActPERODCer.resources
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmPEROD.resources
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmPEROD_Opc.resources
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmPEROD_Sec.resources
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmPEROD_Sec01.resources
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmPEROD_Sec02.resources
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmPEROD_Sec03.resources
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmPEROD_Sec04.resources
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmPEROD_Sec05.resources
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmPEROD_Sec06.resources
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmPEROD_Sec07.resources
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmPEROD_Sec08.resources
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmPEROD_Sec09.resources
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmPEROD_Sec10.resources
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmPEROD_Sec14.resources
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmPEROD_Sec15.resources
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmPEROD_Sec16.resources
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmPEROD_Sec99.resources
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmPEROD_TecNum.resources
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmPESDM.resources
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmPEROP.resources
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.rptPROP003.resources
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmPESDP.resources
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmPQLIM01.resources
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmPQLIM02.resources
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmPQROP01.resources
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmPQROP02.resources
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.rptPQLIM02.resources
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmPRCTE01.resources
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmPRODP05.resources
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmPRODP03.resources
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmPRODP04.resources
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmPRODP01.resources
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmPRODP02.resources
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.rptPRODP02.resources
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.rptPRODP031.resources
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.rptPRODP032.resources
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.rptPRODP04.resources
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.rptRPROP01.resources
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.rptPRRP001.resources
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.rptPRRP002.resources
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.rptPRRP003.resources
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.rptPRRP004.resources
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.rptPRODP05.resources
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmPRROD01.resources
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.rptPRROD011.resources
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.rptPRROD012.resources
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmTEDMT.resources
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.mdiPpal.resources
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmGMnuPpal.resources
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmGLogin.resources
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.Resources.resources
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmTEGRC.resources
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmTEGRP.resources
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmVEENI.resources
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmVEFAC.resources
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmVENOC.resources
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmVENOD.resources
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmVEPED.resources
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmVESAI.resources
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.vbproj.GenerateResource.cache
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.vbproj.CoreCompileInputs.cache
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\obj\x86\Debug\Siles.TrustInfo.xml
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\obj\x86\Debug\Siles.exe.manifest
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\obj\x86\Debug\Siles.application
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.vbproj.CopyComplete
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\obj\x86\Debug\Siles.exe
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\obj\x86\Debug\Siles.xml
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\obj\x86\Debug\Siles.pdb
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\obj\x86\Debug\SySProduccion.frmABEOP.resources
+D:\VBESKO_VS2019\SySProduccion\SySProduccion\bin\Debug\Microsoft.SqlServer.Types.dll
